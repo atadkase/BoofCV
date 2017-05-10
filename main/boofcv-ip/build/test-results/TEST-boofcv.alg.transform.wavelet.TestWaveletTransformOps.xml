@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.transform.wavelet.TestWaveletTransformOps" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:27" hostname="ashu-Lenovo-G50-70" time="0.765">
+  <properties/>
+  <testcase name="smallImage1" classname="boofcv.alg.transform.wavelet.TestWaveletTransformOps" time="0.005"/>
+  <testcase name="multipleLevel" classname="boofcv.alg.transform.wavelet.TestWaveletTransformOps" time="0.759"/>
+  <testcase name="checkOverflow1" classname="boofcv.alg.transform.wavelet.TestWaveletTransformOps" time="0.001"/>
+  <testcase name="checkOverflowN" classname="boofcv.alg.transform.wavelet.TestWaveletTransformOps" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

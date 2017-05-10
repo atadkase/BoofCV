@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.tracker.sfot.TestSparseFlowObjectTracker" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:49" hostname="ashu-Lenovo-G50-70" time="0.138">
+  <properties/>
+  <testcase name="translation" classname="boofcv.alg.tracker.sfot.TestSparseFlowObjectTracker" time="0.04"/>
+  <testcase name="rotation" classname="boofcv.alg.tracker.sfot.TestSparseFlowObjectTracker" time="0.063"/>
+  <testcase name="both" classname="boofcv.alg.tracker.sfot.TestSparseFlowObjectTracker" time="0.024"/>
+  <testcase name="noMotion" classname="boofcv.alg.tracker.sfot.TestSparseFlowObjectTracker" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

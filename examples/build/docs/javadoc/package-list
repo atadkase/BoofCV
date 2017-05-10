@@ -1,0 +1,12 @@
+boofcv.examples
+boofcv.examples.calibration
+boofcv.examples.enhance
+boofcv.examples.features
+boofcv.examples.fiducial
+boofcv.examples.geometry
+boofcv.examples.imageprocessing
+boofcv.examples.recognition
+boofcv.examples.segmentation
+boofcv.examples.sfm
+boofcv.examples.stereo
+boofcv.examples.tracking

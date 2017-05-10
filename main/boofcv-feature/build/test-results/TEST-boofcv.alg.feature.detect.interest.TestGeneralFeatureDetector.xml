@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.detect.interest.TestGeneralFeatureDetector" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:23" hostname="ashu-Lenovo-G50-70" time="0.004">
+  <properties/>
+  <testcase name="testWithNBestSelect" classname="boofcv.alg.feature.detect.interest.TestGeneralFeatureDetector" time="0.002"/>
+  <testcase name="testDetection" classname="boofcv.alg.feature.detect.interest.TestGeneralFeatureDetector" time="0.001"/>
+  <testcase name="handleLocalMinMaxFlags" classname="boofcv.alg.feature.detect.interest.TestGeneralFeatureDetector" time="0.0"/>
+  <testcase name="testPositiveNoCandidates" classname="boofcv.alg.feature.detect.interest.TestGeneralFeatureDetector" time="0.0"/>
+  <testcase name="ignoreBorder" classname="boofcv.alg.feature.detect.interest.TestGeneralFeatureDetector" time="0.0"/>
+  <testcase name="candidatesMissMatch" classname="boofcv.alg.feature.detect.interest.TestGeneralFeatureDetector" time="0.001"/>
+  <testcase name="setBestNumber" classname="boofcv.alg.feature.detect.interest.TestGeneralFeatureDetector" time="0.0"/>
+  <testcase name="testNoNBestSelect" classname="boofcv.alg.feature.detect.interest.TestGeneralFeatureDetector" time="0.0"/>
+  <testcase name="testPositiveCandidates" classname="boofcv.alg.feature.detect.interest.TestGeneralFeatureDetector" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

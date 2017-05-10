@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.geo.TestPerspectiveOps" tests="16" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:48" hostname="ashu-Lenovo-G50-70" time="0.003">
+  <properties/>
+  <testcase name="renderPixel_SE" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.0"/>
+  <testcase name="splitAssociated_pair" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.0"/>
+  <testcase name="convertNormToPixel_intrinsic_F64" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.0"/>
+  <testcase name="renderPixel_cameramatrix" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.0"/>
+  <testcase name="renderPixel_intrinsic" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.0"/>
+  <testcase name="adjustIntrinsic" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.001"/>
+  <testcase name="convertPixelToNorm_matrix" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.0"/>
+  <testcase name="convertPixelToNorm_intrinsic_F64" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.0"/>
+  <testcase name="calibrationMatrix" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.0"/>
+  <testcase name="createCameraMatrix" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.0"/>
+  <testcase name="splitAssociated_triple" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.0"/>
+  <testcase name="guessIntrinsic_one" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.0"/>
+  <testcase name="guessIntrinsic_two" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.0"/>
+  <testcase name="matrixToParam" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.0"/>
+  <testcase name="convertNormToPixel_matrix" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.0"/>
+  <testcase name="scaleIntrinsic" classname="boofcv.alg.geo.TestPerspectiveOps" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

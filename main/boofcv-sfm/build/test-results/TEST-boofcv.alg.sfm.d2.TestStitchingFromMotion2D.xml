@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.sfm.d2.TestStitchingFromMotion2D" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:59" hostname="ashu-Lenovo-G50-70" time="0.056">
+  <properties/>
+  <testcase name="resetBeforeProcess" classname="boofcv.alg.sfm.d2.TestStitchingFromMotion2D" time="0.009"/>
+  <testcase name="basicTest" classname="boofcv.alg.sfm.d2.TestStitchingFromMotion2D" time="0.003"/>
+  <testcase name="getImageCorners" classname="boofcv.alg.sfm.d2.TestStitchingFromMotion2D" time="0.0"/>
+  <testcase name="checkInitialTransform" classname="boofcv.alg.sfm.d2.TestStitchingFromMotion2D" time="0.0"/>
+  <testcase name="setOriginToCurrent" classname="boofcv.alg.sfm.d2.TestStitchingFromMotion2D" time="0.001"/>
+  <testcase name="resizeStitchImage_Transform" classname="boofcv.alg.sfm.d2.TestStitchingFromMotion2D" time="0.036"/>
+  <testcase name="checkMaxJump" classname="boofcv.alg.sfm.d2.TestStitchingFromMotion2D" time="0.0"/>
+  <testcase name="resizeStitchImage_noTransform" classname="boofcv.alg.sfm.d2.TestStitchingFromMotion2D" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

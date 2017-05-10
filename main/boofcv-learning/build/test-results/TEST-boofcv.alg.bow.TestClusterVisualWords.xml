@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.bow.TestClusterVisualWords" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:30" hostname="ashu-Lenovo-G50-70" time="0.006">
+  <properties/>
+  <testcase name="process" classname="boofcv.alg.bow.TestClusterVisualWords" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

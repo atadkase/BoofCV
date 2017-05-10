@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.enhance.impl.TestImplEnhanceHistogram" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:18" hostname="ashu-Lenovo-G50-70" time="0.151">
+  <properties/>
+  <testcase name="equalizeLocalInner" classname="boofcv.alg.enhance.impl.TestImplEnhanceHistogram" time="0.029"/>
+  <testcase name="equalizeLocalNaive" classname="boofcv.alg.enhance.impl.TestImplEnhanceHistogram" time="0.065"/>
+  <testcase name="equalizeLocalCol" classname="boofcv.alg.enhance.impl.TestImplEnhanceHistogram" time="0.013"/>
+  <testcase name="equalizeLocalRow" classname="boofcv.alg.enhance.impl.TestImplEnhanceHistogram" time="0.014"/>
+  <testcase name="applyTransform" classname="boofcv.alg.enhance.impl.TestImplEnhanceHistogram" time="0.029"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

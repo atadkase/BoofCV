@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.segmentation.TestFh04_to_ImageSuperpixels" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:19" hostname="ashu-Lenovo-G50-70" time="0.112">
+  <properties/>
+  <testcase name="subimage" classname="boofcv.abst.segmentation.TestFh04_to_ImageSuperpixels" time="0.07"/>
+  <testcase name="changeInImageSize" classname="boofcv.abst.segmentation.TestFh04_to_ImageSuperpixels" time="0.005"/>
+  <testcase name="multipleCalls" classname="boofcv.abst.segmentation.TestFh04_to_ImageSuperpixels" time="0.008"/>
+  <testcase name="sequentialNumbers" classname="boofcv.abst.segmentation.TestFh04_to_ImageSuperpixels" time="0.004"/>
+  <testcase name="connectivity" classname="boofcv.abst.segmentation.TestFh04_to_ImageSuperpixels" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

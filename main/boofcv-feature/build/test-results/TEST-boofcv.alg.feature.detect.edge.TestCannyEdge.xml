@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.detect.edge.TestCannyEdge" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:22" hostname="ashu-Lenovo-G50-70" time="0.291">
+  <properties/>
+  <testcase name="basicTestPoints" classname="boofcv.alg.feature.detect.edge.TestCannyEdge" time="0.015"/>
+  <testcase name="canHandleNoTexture_and_zeroThresh" classname="boofcv.alg.feature.detect.edge.TestCannyEdge" time="0.051"/>
+  <testcase name="basicTestMarks" classname="boofcv.alg.feature.detect.edge.TestCannyEdge" time="0.011"/>
+  <testcase name="checkEquivalentOutput" classname="boofcv.alg.feature.detect.edge.TestCannyEdge" time="0.182"/>
+  <testcase name="checkSubImage" classname="boofcv.alg.feature.detect.edge.TestCannyEdge" time="0.018"/>
+  <testcase name="checkThresholds" classname="boofcv.alg.feature.detect.edge.TestCannyEdge" time="0.0"/>
+  <testcase name="constantGradient" classname="boofcv.alg.feature.detect.edge.TestCannyEdge" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

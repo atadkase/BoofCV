@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.geo.calibration.TestCalibrationPlanarGridZhang99" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:01" hostname="ashu-Lenovo-G50-70" time="0.072">
+  <properties/>
+  <testcase name="optimizedParam_noisy" classname="boofcv.alg.geo.calibration.TestCalibrationPlanarGridZhang99" time="0.033"/>
+  <testcase name="initialParam" classname="boofcv.alg.geo.calibration.TestCalibrationPlanarGridZhang99" time="0.003"/>
+  <testcase name="applyDistortion" classname="boofcv.alg.geo.calibration.TestCalibrationPlanarGridZhang99" time="0.0"/>
+  <testcase name="optimizedParam_perfect" classname="boofcv.alg.geo.calibration.TestCalibrationPlanarGridZhang99" time="0.001"/>
+  <testcase name="fullTest" classname="boofcv.alg.geo.calibration.TestCalibrationPlanarGridZhang99" time="0.033"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.sfm.robust.TestGenerateScaleTranslate2D" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:55:00" hostname="ashu-Lenovo-G50-70" time="0.002">
+  <properties/>
+  <testcase name="onePointAtZero_a" classname="boofcv.alg.sfm.robust.TestGenerateScaleTranslate2D" time="0.001"/>
+  <testcase name="pathological_noscale" classname="boofcv.alg.sfm.robust.TestGenerateScaleTranslate2D" time="0.0"/>
+  <testcase name="perfect" classname="boofcv.alg.sfm.robust.TestGenerateScaleTranslate2D" time="0.0"/>
+  <testcase name="getMinimumPoints" classname="boofcv.alg.sfm.robust.TestGenerateScaleTranslate2D" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

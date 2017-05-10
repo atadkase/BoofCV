@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.convolve.TestConvolveImageMean" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:20" hostname="ashu-Lenovo-G50-70" time="0.006">
+  <properties/>
+  <testcase name="compareToStandard" classname="boofcv.alg.filter.convolve.TestConvolveImageMean" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

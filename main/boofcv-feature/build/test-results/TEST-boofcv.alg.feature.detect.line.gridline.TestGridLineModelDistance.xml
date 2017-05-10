@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.detect.line.gridline.TestGridLineModelDistance" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:27" hostname="ashu-Lenovo-G50-70" time="0.319">
+  <properties/>
+  <testcase name="computeDistance_list" classname="boofcv.alg.feature.detect.line.gridline.TestGridLineModelDistance" time="0.319"/>
+  <testcase name="distance" classname="boofcv.alg.feature.detect.line.gridline.TestGridLineModelDistance" time="0.0"/>
+  <testcase name="maxAngle" classname="boofcv.alg.feature.detect.line.gridline.TestGridLineModelDistance" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.struct.image.TestImageInterleaved" tests="10" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:28" hostname="ashu-Lenovo-G50-70" time="0.0">
+  <properties/>
+  <testcase name="constructor_w_h_n" classname="boofcv.struct.image.TestImageInterleaved" time="0.0"/>
+  <testcase name="setTo_mismatch" classname="boofcv.struct.image.TestImageInterleaved" time="0.0"/>
+  <testcase name="isInBounds" classname="boofcv.struct.image.TestImageInterleaved" time="0.0"/>
+  <testcase name="createSubImage" classname="boofcv.struct.image.TestImageInterleaved" time="0.0"/>
+  <testcase name="setTo_mismatch_Shape" classname="boofcv.struct.image.TestImageInterleaved" time="0.0"/>
+  <testcase name="setTo_mismatch_bands" classname="boofcv.struct.image.TestImageInterleaved" time="0.0"/>
+  <testcase name="setTo" classname="boofcv.struct.image.TestImageInterleaved" time="0.0"/>
+  <testcase name="reshape_subimage" classname="boofcv.struct.image.TestImageInterleaved" time="0.0"/>
+  <testcase name="reshape" classname="boofcv.struct.image.TestImageInterleaved" time="0.0"/>
+  <testcase name="getIndex" classname="boofcv.struct.image.TestImageInterleaved" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

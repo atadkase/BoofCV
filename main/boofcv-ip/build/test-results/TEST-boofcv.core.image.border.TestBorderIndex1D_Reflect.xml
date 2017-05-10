@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.core.image.border.TestBorderIndex1D_Reflect" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:28" hostname="ashu-Lenovo-G50-70" time="0.0">
+  <properties/>
+  <testcase name="simple" classname="boofcv.core.image.border.TestBorderIndex1D_Reflect" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

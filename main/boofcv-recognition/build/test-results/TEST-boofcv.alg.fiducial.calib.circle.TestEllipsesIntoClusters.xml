@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.fiducial.calib.circle.TestEllipsesIntoClusters" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:49" hostname="ashu-Lenovo-G50-70" time="0.002">
+  <properties/>
+  <testcase name="multipleClusters" classname="boofcv.alg.fiducial.calib.circle.TestEllipsesIntoClusters" time="0.001"/>
+  <testcase name="outputCleared" classname="boofcv.alg.fiducial.calib.circle.TestEllipsesIntoClusters" time="0.0"/>
+  <testcase name="emptyInput" classname="boofcv.alg.fiducial.calib.circle.TestEllipsesIntoClusters" time="0.0"/>
+  <testcase name="multipleCalls" classname="boofcv.alg.fiducial.calib.circle.TestEllipsesIntoClusters" time="0.0"/>
+  <testcase name="noCluster_distance" classname="boofcv.alg.fiducial.calib.circle.TestEllipsesIntoClusters" time="0.0"/>
+  <testcase name="joinClusters" classname="boofcv.alg.fiducial.calib.circle.TestEllipsesIntoClusters" time="0.0"/>
+  <testcase name="checkConnections" classname="boofcv.alg.fiducial.calib.circle.TestEllipsesIntoClusters" time="0.001"/>
+  <testcase name="axisAdjustedDistance" classname="boofcv.alg.fiducial.calib.circle.TestEllipsesIntoClusters" time="0.0"/>
+  <testcase name="noCluster_size" classname="boofcv.alg.fiducial.calib.circle.TestEllipsesIntoClusters" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

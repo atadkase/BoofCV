@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.interpolate.impl.TestNearestNeighborRectangle_F32" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:23" hostname="ashu-Lenovo-G50-70" time="0.027">
+  <properties/>
+  <testcase name="outsideImageBorder2_barely" classname="boofcv.alg.interpolate.impl.TestNearestNeighborRectangle_F32" time="0.021"/>
+  <testcase name="checkCenter" classname="boofcv.alg.interpolate.impl.TestNearestNeighborRectangle_F32" time="0.002"/>
+  <testcase name="checkSubImage" classname="boofcv.alg.interpolate.impl.TestNearestNeighborRectangle_F32" time="0.001"/>
+  <testcase name="outsideImageBorder1_barely" classname="boofcv.alg.interpolate.impl.TestNearestNeighborRectangle_F32" time="0.0"/>
+  <testcase name="outsideImageBorder" classname="boofcv.alg.interpolate.impl.TestNearestNeighborRectangle_F32" time="0.0"/>
+  <testcase name="checkBottomRightEdge" classname="boofcv.alg.interpolate.impl.TestNearestNeighborRectangle_F32" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.background.moving.TestBackgroundMovingBasic_IL" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:20" hostname="ashu-Lenovo-G50-70" time="0.185">
+  <properties/>
+  <testcase name="performStationaryTests" classname="boofcv.alg.background.moving.TestBackgroundMovingBasic_IL" time="0.003"/>
+  <testcase name="currentOutsideBackground" classname="boofcv.alg.background.moving.TestBackgroundMovingBasic_IL" time="0.086"/>
+  <testcase name="basicCheck" classname="boofcv.alg.background.moving.TestBackgroundMovingBasic_IL" time="0.051"/>
+  <testcase name="reset" classname="boofcv.alg.background.moving.TestBackgroundMovingBasic_IL" time="0.01"/>
+  <testcase name="checkSubImage" classname="boofcv.alg.background.moving.TestBackgroundMovingBasic_IL" time="0.027"/>
+  <testcase name="markUnobservedAsUnknown" classname="boofcv.alg.background.moving.TestBackgroundMovingBasic_IL" time="0.004"/>
+  <testcase name="markNoBackgroundAsBackground" classname="boofcv.alg.background.moving.TestBackgroundMovingBasic_IL" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

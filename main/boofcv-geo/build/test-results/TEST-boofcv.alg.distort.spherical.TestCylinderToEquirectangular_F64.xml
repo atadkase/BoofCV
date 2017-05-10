@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.distort.spherical.TestCylinderToEquirectangular_F64" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:47" hostname="ashu-Lenovo-G50-70" time="0.063">
+  <properties/>
+  <testcase name="checkVectors" classname="boofcv.alg.distort.spherical.TestCylinderToEquirectangular_F64" time="0.025"/>
+  <testcase name="pointingAtZero" classname="boofcv.alg.distort.spherical.TestCylinderToEquirectangular_F64" time="0.022"/>
+  <testcase name="checkFOV" classname="boofcv.alg.distort.spherical.TestCylinderToEquirectangular_F64" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

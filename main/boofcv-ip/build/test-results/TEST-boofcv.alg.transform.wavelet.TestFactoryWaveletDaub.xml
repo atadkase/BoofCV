@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.transform.wavelet.TestFactoryWaveletDaub" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:27" hostname="ashu-Lenovo-G50-70" time="0.01">
+  <properties/>
+  <testcase name="transform_biorthogonal_F32" classname="boofcv.alg.transform.wavelet.TestFactoryWaveletDaub" time="0.003"/>
+  <testcase name="transform_biorthogonal_I32" classname="boofcv.alg.transform.wavelet.TestFactoryWaveletDaub" time="0.003"/>
+  <testcase name="transform_daubJ_F32" classname="boofcv.alg.transform.wavelet.TestFactoryWaveletDaub" time="0.001"/>
+  <testcase name="biorthogonal_I32_inverse" classname="boofcv.alg.transform.wavelet.TestFactoryWaveletDaub" time="0.001"/>
+  <testcase name="biorthogonal_F32_inverse" classname="boofcv.alg.transform.wavelet.TestFactoryWaveletDaub" time="0.001"/>
+  <testcase name="biorthogonal_I32_forward" classname="boofcv.alg.transform.wavelet.TestFactoryWaveletDaub" time="0.0"/>
+  <testcase name="daubJ_F32_forward" classname="boofcv.alg.transform.wavelet.TestFactoryWaveletDaub" time="0.0"/>
+  <testcase name="biorthogonal_F32_forward" classname="boofcv.alg.transform.wavelet.TestFactoryWaveletDaub" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

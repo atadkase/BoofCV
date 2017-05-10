@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.transform.wavelet.impl.TestImplWaveletTransformBorder" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:25" hostname="ashu-Lenovo-G50-70" time="1.303">
+  <properties/>
+  <testcase name="checkAllHorizontalInverse" classname="boofcv.alg.transform.wavelet.impl.TestImplWaveletTransformBorder" time="0.468"/>
+  <testcase name="checkAllVertical" classname="boofcv.alg.transform.wavelet.impl.TestImplWaveletTransformBorder" time="0.234"/>
+  <testcase name="checkAllVerticalInverse" classname="boofcv.alg.transform.wavelet.impl.TestImplWaveletTransformBorder" time="0.334"/>
+  <testcase name="checkAllHorizontal" classname="boofcv.alg.transform.wavelet.impl.TestImplWaveletTransformBorder" time="0.267"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.transform.ii.TestDerivativeIntegralImage" tests="10" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:24" hostname="ashu-Lenovo-G50-70" time="0.067">
+  <properties/>
+  <testcase name="kernelHaarX" classname="boofcv.alg.transform.ii.TestDerivativeIntegralImage" time="0.008"/>
+  <testcase name="kernelHaarY" classname="boofcv.alg.transform.ii.TestDerivativeIntegralImage" time="0.014"/>
+  <testcase name="kernelDerivXX" classname="boofcv.alg.transform.ii.TestDerivativeIntegralImage" time="0.006"/>
+  <testcase name="kernelDerivXY" classname="boofcv.alg.transform.ii.TestDerivativeIntegralImage" time="0.019"/>
+  <testcase name="kernelDerivYY" classname="boofcv.alg.transform.ii.TestDerivativeIntegralImage" time="0.004"/>
+  <testcase name="kernelDerivX" classname="boofcv.alg.transform.ii.TestDerivativeIntegralImage" time="0.004"/>
+  <testcase name="kernelDerivY" classname="boofcv.alg.transform.ii.TestDerivativeIntegralImage" time="0.004"/>
+  <testcase name="derivXX" classname="boofcv.alg.transform.ii.TestDerivativeIntegralImage" time="0.002"/>
+  <testcase name="derivXY" classname="boofcv.alg.transform.ii.TestDerivativeIntegralImage" time="0.002"/>
+  <testcase name="derivYY" classname="boofcv.alg.transform.ii.TestDerivativeIntegralImage" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

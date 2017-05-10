@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.convolve.TestConvolveDownNoBorder" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:19" hostname="ashu-Lenovo-G50-70" time="0.034">
+  <properties/>
+  <testcase name="compareToStandard" classname="boofcv.alg.filter.convolve.TestConvolveDownNoBorder" time="0.034"/>
+  <system-out><![CDATA[Can't find an equivalent function in validation class. checkParametersH
+Can't find an equivalent function in validation class. checkParametersV
+Can't find an equivalent function in validation class. checkParameters
+Can't find an equivalent function in validation class. checkParametersH
+Can't find an equivalent function in validation class. checkParametersV
+Can't find an equivalent function in validation class. checkParameters
+Can't find an equivalent function in validation class. checkParametersH
+Can't find an equivalent function in validation class. checkParametersV
+Can't find an equivalent function in validation class. checkParameters
+Can't find an equivalent function in validation class. checkParametersH
+Can't find an equivalent function in validation class. checkParametersV
+Can't find an equivalent function in validation class. checkParameters
+Can't find an equivalent function in validation class. checkParametersH
+Can't find an equivalent function in validation class. checkParametersV
+Can't find an equivalent function in validation class. checkParameters
+Can't find an equivalent function in validation class. checkParametersH
+Can't find an equivalent function in validation class. checkParametersV
+Can't find an equivalent function in validation class. checkParameters
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

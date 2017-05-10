@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.detect.template.TestTemplateMatching" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:28" hostname="ashu-Lenovo-G50-70" time="0.04">
+  <properties/>
+  <testcase name="basicTest_BORDER" classname="boofcv.alg.feature.detect.template.TestTemplateMatching" time="0.04"/>
+  <testcase name="basicTest_NOBORDER" classname="boofcv.alg.feature.detect.template.TestTemplateMatching" time="0.0"/>
+  <testcase name="withMask" classname="boofcv.alg.feature.detect.template.TestTemplateMatching" time="0.0"/>
+  <testcase name="maxMatches" classname="boofcv.alg.feature.detect.template.TestTemplateMatching" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

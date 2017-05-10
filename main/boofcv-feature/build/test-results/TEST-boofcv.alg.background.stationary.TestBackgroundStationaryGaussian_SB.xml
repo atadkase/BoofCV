@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.background.stationary.TestBackgroundStationaryGaussian_SB" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:21" hostname="ashu-Lenovo-G50-70" time="0.053">
+  <properties/>
+  <testcase name="initialVariance" classname="boofcv.alg.background.stationary.TestBackgroundStationaryGaussian_SB" time="0.003"/>
+  <testcase name="learnRate" classname="boofcv.alg.background.stationary.TestBackgroundStationaryGaussian_SB" time="0.016"/>
+  <testcase name="minimumDifference" classname="boofcv.alg.background.stationary.TestBackgroundStationaryGaussian_SB" time="0.003"/>
+  <testcase name="basicCheck" classname="boofcv.alg.background.stationary.TestBackgroundStationaryGaussian_SB" time="0.01"/>
+  <testcase name="segmentBeforeUpdateBackGround" classname="boofcv.alg.background.stationary.TestBackgroundStationaryGaussian_SB" time="0.0"/>
+  <testcase name="checkBandsUsed" classname="boofcv.alg.background.stationary.TestBackgroundStationaryGaussian_SB" time="0.018"/>
+  <testcase name="reset" classname="boofcv.alg.background.stationary.TestBackgroundStationaryGaussian_SB" time="0.0"/>
+  <testcase name="checkSubImage" classname="boofcv.alg.background.stationary.TestBackgroundStationaryGaussian_SB" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.transform.wavelet.impl.TestImplWaveletTransformInner" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:26" hostname="ashu-Lenovo-G50-70" time="1.299">
+  <properties/>
+  <testcase name="checkAllHorizontalInverse" classname="boofcv.alg.transform.wavelet.impl.TestImplWaveletTransformInner" time="0.206"/>
+  <testcase name="checkAllVertical" classname="boofcv.alg.transform.wavelet.impl.TestImplWaveletTransformInner" time="0.451"/>
+  <testcase name="checkAllVerticalInverse" classname="boofcv.alg.transform.wavelet.impl.TestImplWaveletTransformInner" time="0.186"/>
+  <testcase name="checkAllHorizontal" classname="boofcv.alg.transform.wavelet.impl.TestImplWaveletTransformInner" time="0.456"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

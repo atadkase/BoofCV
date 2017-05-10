@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.interpolate.impl.TestImplBilinearPixel_IL_S16" tests="12" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:22" hostname="ashu-Lenovo-G50-70" time="0.061">
+  <properties/>
+  <testcase name="getFastBorder" classname="boofcv.alg.interpolate.impl.TestImplBilinearPixel_IL_S16" time="0.008"/>
+  <testcase name="get_outside_noborder" classname="boofcv.alg.interpolate.impl.TestImplBilinearPixel_IL_S16" time="0.0"/>
+  <testcase name="get" classname="boofcv.alg.interpolate.impl.TestImplBilinearPixel_IL_S16" time="0.023"/>
+  <testcase name="checkPixelValueBoundsHonored" classname="boofcv.alg.interpolate.impl.TestImplBilinearPixel_IL_S16" time="0.002"/>
+  <testcase name="isInFastBounds" classname="boofcv.alg.interpolate.impl.TestImplBilinearPixel_IL_S16" time="0.017"/>
+  <testcase name="checkSubImage" classname="boofcv.alg.interpolate.impl.TestImplBilinearPixel_IL_S16" time="0.002"/>
+  <testcase name="get_outside_border" classname="boofcv.alg.interpolate.impl.TestImplBilinearPixel_IL_S16" time="0.002"/>
+  <testcase name="isInFastBounds_outOfBounds" classname="boofcv.alg.interpolate.impl.TestImplBilinearPixel_IL_S16" time="0.0"/>
+  <testcase name="get_edges" classname="boofcv.alg.interpolate.impl.TestImplBilinearPixel_IL_S16" time="0.002"/>
+  <testcase name="compareToSingleBand" classname="boofcv.alg.interpolate.impl.TestImplBilinearPixel_IL_S16" time="0.002"/>
+  <testcase name="getImage" classname="boofcv.alg.interpolate.impl.TestImplBilinearPixel_IL_S16" time="0.0"/>
+  <testcase name="get_fast" classname="boofcv.alg.interpolate.impl.TestImplBilinearPixel_IL_S16" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

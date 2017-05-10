@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.fiducial.calib.chess.TestDetectChessboardFiducial" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:47" hostname="ashu-Lenovo-G50-70" time="1.635">
+  <properties/>
+  <testcase name="basicTest" classname="boofcv.alg.fiducial.calib.chess.TestDetectChessboardFiducial" time="0.853"/>
+  <testcase name="touchesBorder_translate" classname="boofcv.alg.fiducial.calib.chess.TestDetectChessboardFiducial" time="0.105"/>
+  <testcase name="touchedBorder_rotate" classname="boofcv.alg.fiducial.calib.chess.TestDetectChessboardFiducial" time="0.677"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

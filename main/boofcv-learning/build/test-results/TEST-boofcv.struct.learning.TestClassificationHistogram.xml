@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.struct.learning.TestClassificationHistogram" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:30" hostname="ashu-Lenovo-G50-70" time="0.005">
+  <properties/>
+  <testcase name="get" classname="boofcv.struct.learning.TestClassificationHistogram" time="0.0"/>
+  <testcase name="reset" classname="boofcv.struct.learning.TestClassificationHistogram" time="0.0"/>
+  <testcase name="createConfusion" classname="boofcv.struct.learning.TestClassificationHistogram" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

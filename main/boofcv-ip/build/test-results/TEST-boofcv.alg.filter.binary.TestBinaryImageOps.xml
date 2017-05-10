@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.binary.TestBinaryImageOps" tests="12" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:18" hostname="ashu-Lenovo-G50-70" time="0.023">
+  <properties/>
+  <testcase name="invert" classname="boofcv.alg.filter.binary.TestBinaryImageOps" time="0.0"/>
+  <testcase name="compareToNaive" classname="boofcv.alg.filter.binary.TestBinaryImageOps" time="0.016"/>
+  <testcase name="labelToBinary" classname="boofcv.alg.filter.binary.TestBinaryImageOps" time="0.0"/>
+  <testcase name="labelToBinary_array_boolean" classname="boofcv.alg.filter.binary.TestBinaryImageOps" time="0.0"/>
+  <testcase name="checkMultipleCalls" classname="boofcv.alg.filter.binary.TestBinaryImageOps" time="0.002"/>
+  <testcase name="logicOr" classname="boofcv.alg.filter.binary.TestBinaryImageOps" time="0.0"/>
+  <testcase name="labelToBinary_individual_indexes" classname="boofcv.alg.filter.binary.TestBinaryImageOps" time="0.0"/>
+  <testcase name="contour" classname="boofcv.alg.filter.binary.TestBinaryImageOps" time="0.004"/>
+  <testcase name="relabel" classname="boofcv.alg.filter.binary.TestBinaryImageOps" time="0.0"/>
+  <testcase name="labelToClusters" classname="boofcv.alg.filter.binary.TestBinaryImageOps" time="0.0"/>
+  <testcase name="logicAnd" classname="boofcv.alg.filter.binary.TestBinaryImageOps" time="0.0"/>
+  <testcase name="logicXor" classname="boofcv.alg.filter.binary.TestBinaryImageOps" time="0.0"/>
+  <system-out><![CDATA[Can't find an equivalent function in validation class. invert
+Can't find an equivalent function in validation class. logicAnd
+Can't find an equivalent function in validation class. logicOr
+Can't find an equivalent function in validation class. logicXor
+Can't find an equivalent function in validation class. thin
+Can't find an equivalent function in validation class. contour
+Can't find an equivalent function in validation class. relabel
+Can't find an equivalent function in validation class. labelToBinary
+Can't find an equivalent function in validation class. labelToBinary
+Can't find an equivalent function in validation class. labelToBinary
+Can't find an equivalent function in validation class. labelToClusters
+Can't find an equivalent function in validation class. clusterToBinary
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

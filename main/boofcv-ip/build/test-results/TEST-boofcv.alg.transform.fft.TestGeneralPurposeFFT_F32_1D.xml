@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.transform.fft.TestGeneralPurposeFFT_F32_1D" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:23" hostname="ashu-Lenovo-G50-70" time="0.002">
+  <properties/>
+  <testcase name="realFull" classname="boofcv.alg.transform.fft.TestGeneralPurposeFFT_F32_1D" time="0.001"/>
+  <testcase name="real" classname="boofcv.alg.transform.fft.TestGeneralPurposeFFT_F32_1D" time="0.0"/>
+  <testcase name="complex" classname="boofcv.alg.transform.fft.TestGeneralPurposeFFT_F32_1D" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

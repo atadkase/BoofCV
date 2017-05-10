@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.detect.intensity.impl.TestImplFastIntensity12" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:22" hostname="ashu-Lenovo-G50-70" time="0.004">
+  <properties/>
+  <testcase name="checkIntensity" classname="boofcv.alg.feature.detect.intensity.impl.TestImplFastIntensity12" time="0.001"/>
+  <testcase name="compareToNaiveDetection" classname="boofcv.alg.feature.detect.intensity.impl.TestImplFastIntensity12" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

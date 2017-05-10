@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" tests="19" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:47" hostname="ashu-Lenovo-G50-70" time="0.056">
+  <properties/>
+  <testcase name="checkRecycleDropAll" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.004"/>
+  <testcase name="addTrack" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.001"/>
+  <testcase name="checkRecycle_Process_Spawn" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.003"/>
+  <testcase name="process_allPointsInside" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.002"/>
+  <testcase name="checkRecycleDropTrack" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.001"/>
+  <testcase name="spawnTracks" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.003"/>
+  <testcase name="getActiveTracks" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.002"/>
+  <testcase name="getNewTracks" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.001"/>
+  <testcase name="getDroppedTracks" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.002"/>
+  <testcase name="getAllTracks" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.001"/>
+  <testcase name="checkCookieNull" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.001"/>
+  <testcase name="reset" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.002"/>
+  <testcase name="testRequestDrop" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.001"/>
+  <testcase name="testTrackUpdate" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.002"/>
+  <testcase name="checkCookieSaved" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.001"/>
+  <testcase name="getInactiveTracks" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.011"/>
+  <testcase name="dropAllTracks" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.001"/>
+  <testcase name="spawnTracks_NoDuplicates" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.003"/>
+  <testcase name="testUpdateTrackDrop" classname="boofcv.abst.feature.tracker.TestPointTrackerKltPyramid" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

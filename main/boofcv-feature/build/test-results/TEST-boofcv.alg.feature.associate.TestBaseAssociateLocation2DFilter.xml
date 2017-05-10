@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.associate.TestBaseAssociateLocation2DFilter" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:21" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="checkDistanceFilter" classname="boofcv.alg.feature.associate.TestBaseAssociateLocation2DFilter" time="0.001"/>
+  <testcase name="checkMaxError" classname="boofcv.alg.feature.associate.TestBaseAssociateLocation2DFilter" time="0.0"/>
+  <testcase name="checkBackwards" classname="boofcv.alg.feature.associate.TestBaseAssociateLocation2DFilter" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

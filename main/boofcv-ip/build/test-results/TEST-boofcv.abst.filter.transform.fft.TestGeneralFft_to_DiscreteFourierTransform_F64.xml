@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.filter.transform.fft.TestGeneralFft_to_DiscreteFourierTransform_F64" tests="10" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:17" hostname="ashu-Lenovo-G50-70" time="0.188">
+  <properties/>
+  <testcase name="subimage" classname="boofcv.abst.filter.transform.fft.TestGeneralFft_to_DiscreteFourierTransform_F64" time="0.037"/>
+  <testcase name="checkDoNotModifyInputs" classname="boofcv.abst.filter.transform.fft.TestGeneralFft_to_DiscreteFourierTransform_F64" time="0.02"/>
+  <testcase name="format_odd" classname="boofcv.abst.filter.transform.fft.TestGeneralFft_to_DiscreteFourierTransform_F64" time="0.001"/>
+  <testcase name="checkSameResultsWithModify" classname="boofcv.abst.filter.transform.fft.TestGeneralFft_to_DiscreteFourierTransform_F64" time="0.061"/>
+  <testcase name="multipleCalls_sameSize" classname="boofcv.abst.filter.transform.fft.TestGeneralFft_to_DiscreteFourierTransform_F64" time="0.014"/>
+  <testcase name="format_even" classname="boofcv.abst.filter.transform.fft.TestGeneralFft_to_DiscreteFourierTransform_F64" time="0.003"/>
+  <testcase name="zeroFrequency" classname="boofcv.abst.filter.transform.fft.TestGeneralFft_to_DiscreteFourierTransform_F64" time="0.001"/>
+  <testcase name="forwardsBackwards" classname="boofcv.abst.filter.transform.fft.TestGeneralFft_to_DiscreteFourierTransform_F64" time="0.033"/>
+  <testcase name="multipleCalls_differentSizes" classname="boofcv.abst.filter.transform.fft.TestGeneralFft_to_DiscreteFourierTransform_F64" time="0.014"/>
+  <testcase name="inputImageSize" classname="boofcv.abst.filter.transform.fft.TestGeneralFft_to_DiscreteFourierTransform_F64" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

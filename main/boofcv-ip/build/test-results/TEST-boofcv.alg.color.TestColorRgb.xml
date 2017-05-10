@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.color.TestColorRgb" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:17" hostname="ashu-Lenovo-G50-70" time="0.004">
+  <properties/>
+  <testcase name="interleaved_U8" classname="boofcv.alg.color.TestColorRgb" time="0.001"/>
+  <testcase name="scalar_U8" classname="boofcv.alg.color.TestColorRgb" time="0.0"/>
+  <testcase name="planar_F32" classname="boofcv.alg.color.TestColorRgb" time="0.0"/>
+  <testcase name="planar_F64" classname="boofcv.alg.color.TestColorRgb" time="0.001"/>
+  <testcase name="interleaved_F32" classname="boofcv.alg.color.TestColorRgb" time="0.0"/>
+  <testcase name="interleaved_F64" classname="boofcv.alg.color.TestColorRgb" time="0.001"/>
+  <testcase name="scalar_F32" classname="boofcv.alg.color.TestColorRgb" time="0.0"/>
+  <testcase name="scalar_F64" classname="boofcv.alg.color.TestColorRgb" time="0.0"/>
+  <testcase name="planar_U8" classname="boofcv.alg.color.TestColorRgb" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.derivative.TestHessianSobel" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:22" hostname="ashu-Lenovo-G50-70" time="0.016">
+  <properties/>
+  <testcase name="compareToConvolve_F32" classname="boofcv.alg.filter.derivative.TestHessianSobel" time="0.008"/>
+  <testcase name="compareToConvolve_I8" classname="boofcv.alg.filter.derivative.TestHessianSobel" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

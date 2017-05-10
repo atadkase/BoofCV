@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.derivative.TestGradientPrewitt" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:22" hostname="ashu-Lenovo-G50-70" time="0.011">
+  <properties/>
+  <testcase name="compareToConvolve_F32" classname="boofcv.alg.filter.derivative.TestGradientPrewitt" time="0.002"/>
+  <testcase name="compareToConvolve_I16" classname="boofcv.alg.filter.derivative.TestGradientPrewitt" time="0.002"/>
+  <testcase name="compareToConvolve_I8" classname="boofcv.alg.filter.derivative.TestGradientPrewitt" time="0.002"/>
+  <testcase name="testStandard" classname="boofcv.alg.filter.derivative.TestGradientPrewitt" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

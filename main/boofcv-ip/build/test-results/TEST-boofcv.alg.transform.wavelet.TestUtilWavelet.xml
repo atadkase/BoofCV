@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.transform.wavelet.TestUtilWavelet" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:27" hostname="ashu-Lenovo-G50-70" time="0.024">
+  <properties/>
+  <testcase name="sumCoefficients_F32" classname="boofcv.alg.transform.wavelet.TestUtilWavelet" time="0.0"/>
+  <testcase name="checkShape_positive" classname="boofcv.alg.transform.wavelet.TestUtilWavelet" time="0.0"/>
+  <testcase name="checkShape_negative" classname="boofcv.alg.transform.wavelet.TestUtilWavelet" time="0.0"/>
+  <testcase name="borderForwardLower" classname="boofcv.alg.transform.wavelet.TestUtilWavelet" time="0.0"/>
+  <testcase name="borderForwardUpper" classname="boofcv.alg.transform.wavelet.TestUtilWavelet" time="0.0"/>
+  <testcase name="computeEnergy_F32" classname="boofcv.alg.transform.wavelet.TestUtilWavelet" time="0.0"/>
+  <testcase name="computeEnergy_I32" classname="boofcv.alg.transform.wavelet.TestUtilWavelet" time="0.0"/>
+  <testcase name="adjustForDisplay" classname="boofcv.alg.transform.wavelet.TestUtilWavelet" time="0.024"/>
+  <testcase name="convertToType" classname="boofcv.alg.transform.wavelet.TestUtilWavelet" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

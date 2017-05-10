@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.distort.spherical.TestEquirectangularTools_F64" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:47" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="equiToNorm" classname="boofcv.alg.distort.spherical.TestEquirectangularTools_F64" time="0.0"/>
+  <testcase name="equiToLonlatFV_reverse" classname="boofcv.alg.distort.spherical.TestEquirectangularTools_F64" time="0.0"/>
+  <testcase name="equiToNormFV" classname="boofcv.alg.distort.spherical.TestEquirectangularTools_F64" time="0.0"/>
+  <testcase name="equiToNorm_reverseFV" classname="boofcv.alg.distort.spherical.TestEquirectangularTools_F64" time="0.0"/>
+  <testcase name="lonlatToEquiFV" classname="boofcv.alg.distort.spherical.TestEquirectangularTools_F64" time="0.0"/>
+  <testcase name="equiToLonlat_reverse" classname="boofcv.alg.distort.spherical.TestEquirectangularTools_F64" time="0.0"/>
+  <testcase name="lonlatToEqui" classname="boofcv.alg.distort.spherical.TestEquirectangularTools_F64" time="0.0"/>
+  <testcase name="equiToNorm_reverse" classname="boofcv.alg.distort.spherical.TestEquirectangularTools_F64" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

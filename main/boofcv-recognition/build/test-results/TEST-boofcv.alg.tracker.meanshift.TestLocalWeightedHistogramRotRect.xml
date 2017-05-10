@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.tracker.meanshift.TestLocalWeightedHistogramRotRect" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:49" hostname="ashu-Lenovo-G50-70" time="0.007">
+  <properties/>
+  <testcase name="computeHistogramBin" classname="boofcv.alg.tracker.meanshift.TestLocalWeightedHistogramRotRect" time="0.0"/>
+  <testcase name="computeWeights" classname="boofcv.alg.tracker.meanshift.TestLocalWeightedHistogramRotRect" time="0.001"/>
+  <testcase name="normalizeHistogram" classname="boofcv.alg.tracker.meanshift.TestLocalWeightedHistogramRotRect" time="0.0"/>
+  <testcase name="computeHistogramBorder_compare" classname="boofcv.alg.tracker.meanshift.TestLocalWeightedHistogramRotRect" time="0.003"/>
+  <testcase name="computeHistogram" classname="boofcv.alg.tracker.meanshift.TestLocalWeightedHistogramRotRect" time="0.002"/>
+  <testcase name="isInFastBounds" classname="boofcv.alg.tracker.meanshift.TestLocalWeightedHistogramRotRect" time="0.001"/>
+  <testcase name="squareToImage" classname="boofcv.alg.tracker.meanshift.TestLocalWeightedHistogramRotRect" time="0.0"/>
+  <testcase name="computeHistogramBorder_outside" classname="boofcv.alg.tracker.meanshift.TestLocalWeightedHistogramRotRect" time="0.0"/>
+  <testcase name="createSamplePoints" classname="boofcv.alg.tracker.meanshift.TestLocalWeightedHistogramRotRect" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

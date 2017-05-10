@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.color.TestColorYuv" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:17" hostname="ashu-Lenovo-G50-70" time="0.003">
+  <properties/>
+  <testcase name="backAndForth_F64_and_F32" classname="boofcv.alg.color.TestColorYuv" time="0.001"/>
+  <testcase name="yuvToRgb_F32_Planar" classname="boofcv.alg.color.TestColorYuv" time="0.0"/>
+  <testcase name="ycbcrToRgb_U8_Planar" classname="boofcv.alg.color.TestColorYuv" time="0.0"/>
+  <testcase name="backAndForth_U8" classname="boofcv.alg.color.TestColorYuv" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

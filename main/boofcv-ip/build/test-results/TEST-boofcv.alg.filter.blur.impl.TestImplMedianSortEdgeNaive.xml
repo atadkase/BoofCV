@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.blur.impl.TestImplMedianSortEdgeNaive" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:19" hostname="ashu-Lenovo-G50-70" time="0.003">
+  <properties/>
+  <testcase name="compareToFullNaive" classname="boofcv.alg.filter.blur.impl.TestImplMedianSortEdgeNaive" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

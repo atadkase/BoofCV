@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.distort.universal.TestLensDistortionUniversalOmni" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:48" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="pixel_unit_pixel_F32" classname="boofcv.alg.distort.universal.TestLensDistortionUniversalOmni" time="0.001"/>
+  <testcase name="pixel_unit_pixel_F64" classname="boofcv.alg.distort.universal.TestLensDistortionUniversalOmni" time="0.0"/>
+  <testcase name="blowup_extreme_angle_F32" classname="boofcv.alg.distort.universal.TestLensDistortionUniversalOmni" time="0.0"/>
+  <testcase name="blowup_extreme_angle_F64" classname="boofcv.alg.distort.universal.TestLensDistortionUniversalOmni" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

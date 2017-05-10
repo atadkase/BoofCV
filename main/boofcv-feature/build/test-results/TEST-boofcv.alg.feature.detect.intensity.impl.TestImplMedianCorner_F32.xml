@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.detect.intensity.impl.TestImplMedianCorner_F32" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:23" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="genericTests" classname="boofcv.alg.feature.detect.intensity.impl.TestImplMedianCorner_F32" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

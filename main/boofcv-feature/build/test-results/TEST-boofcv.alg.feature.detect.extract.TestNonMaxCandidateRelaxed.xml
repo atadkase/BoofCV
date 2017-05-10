@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.detect.extract.TestNonMaxCandidateRelaxed" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:22" hostname="ashu-Lenovo-G50-70" time="0.054">
+  <properties/>
+  <testcase name="testNullCandidate" classname="boofcv.alg.feature.detect.extract.TestNonMaxCandidateRelaxed" time="0.0"/>
+  <testcase name="checkCanDetectAlongImageBorder" classname="boofcv.alg.feature.detect.extract.TestNonMaxCandidateRelaxed" time="0.001"/>
+  <testcase name="checkBorderMaximum" classname="boofcv.alg.feature.detect.extract.TestNonMaxCandidateRelaxed" time="0.002"/>
+  <testcase name="compareToNaive" classname="boofcv.alg.feature.detect.extract.TestNonMaxCandidateRelaxed" time="0.051"/>
+  <testcase name="checkDetectionRule" classname="boofcv.alg.feature.detect.extract.TestNonMaxCandidateRelaxed" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

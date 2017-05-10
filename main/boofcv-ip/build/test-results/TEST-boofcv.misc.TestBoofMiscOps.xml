@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.misc.TestBoofMiscOps" tests="10" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:28" hostname="ashu-Lenovo-G50-70" time="0.002">
+  <properties/>
+  <testcase name="checkInside_ImageRectangle" classname="boofcv.misc.TestBoofMiscOps" time="0.001"/>
+  <testcase name="checkInside_radius_F32" classname="boofcv.misc.TestBoofMiscOps" time="0.0"/>
+  <testcase name="checkInside_radius_F64" classname="boofcv.misc.TestBoofMiscOps" time="0.0"/>
+  <testcase name="checkInside_radius_int" classname="boofcv.misc.TestBoofMiscOps" time="0.0"/>
+  <testcase name="checkInside_wh_double" classname="boofcv.misc.TestBoofMiscOps" time="0.0"/>
+  <testcase name="checkInside_img_double" classname="boofcv.misc.TestBoofMiscOps" time="0.0"/>
+  <testcase name="checkInside_wh_float" classname="boofcv.misc.TestBoofMiscOps" time="0.0"/>
+  <testcase name="checkInside_w_h" classname="boofcv.misc.TestBoofMiscOps" time="0.0"/>
+  <testcase name="boundRectangleInside" classname="boofcv.misc.TestBoofMiscOps" time="0.0"/>
+  <testcase name="checkInside_img_float" classname="boofcv.misc.TestBoofMiscOps" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

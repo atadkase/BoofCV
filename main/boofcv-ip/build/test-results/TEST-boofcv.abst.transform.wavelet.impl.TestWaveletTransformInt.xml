@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.transform.wavelet.impl.TestWaveletTransformInt" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:17" hostname="ashu-Lenovo-G50-70" time="0.03">
+  <properties/>
+  <testcase name="checkOtherType" classname="boofcv.abst.transform.wavelet.impl.TestWaveletTransformInt" time="0.023"/>
+  <testcase name="compareToWaveletTransformOps" classname="boofcv.abst.transform.wavelet.impl.TestWaveletTransformInt" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

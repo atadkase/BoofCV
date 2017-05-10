@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.boofcv.WebcamCapture
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1494442278000
+Bundle-Vendor: BoofCV
+Bundle-DocURL: http://boofcv.org
+Import-Package: boofcv.io.image;version="[0.27,1)",boofcv.io.wrapper;v
+ ersion="[0.27,1)",boofcv.struct.image;version="[0.27,1)",com.github.s
+ arxos.webcam;version="[0.3,1)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-2.4.0.201411031534
+Export-Package: boofcv.io.webcamcapture;version="0.27.0.SNAPSHOT";uses
+ :="boofcv.io.image,boofcv.io.wrapper,boofcv.struct.image,com.github.s
+ arxos.webcam"
+Bundle-Version: 0.27.0.SNAPSHOT
+Bundle-Name: boofcv-WebcamCapture
+Created-By: 1.8.0_131 (Oracle Corporation)
+

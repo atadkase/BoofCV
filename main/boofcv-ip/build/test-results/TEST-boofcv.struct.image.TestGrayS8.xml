@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.struct.image.TestGrayS8" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:28" hostname="ashu-Lenovo-G50-70" time="0.006">
+  <properties/>
+  <testcase name="checkSign" classname="boofcv.struct.image.TestGrayS8" time="0.0"/>
+  <testcase name="subimage" classname="boofcv.struct.image.TestGrayS8" time="0.0"/>
+  <testcase name="checkNoArgumentConstructor" classname="boofcv.struct.image.TestGrayS8" time="0.0"/>
+  <testcase name="serialize" classname="boofcv.struct.image.TestGrayS8" time="0.003"/>
+  <testcase name="accessorBounds" classname="boofcv.struct.image.TestGrayS8" time="0.001"/>
+  <testcase name="unsafe_get_set" classname="boofcv.struct.image.TestGrayS8" time="0.0"/>
+  <testcase name="get_set" classname="boofcv.struct.image.TestGrayS8" time="0.0"/>
+  <testcase name="reshape" classname="boofcv.struct.image.TestGrayS8" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

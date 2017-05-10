@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.shapes.polygon.TestRefinePolygonCornersToImage" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:34" hostname="ashu-Lenovo-G50-70" time="0.147">
+  <properties/>
+  <testcase name="perfectRectangle" classname="boofcv.alg.shapes.polygon.TestRefinePolygonCornersToImage" time="0.064"/>
+  <testcase name="fitWithEdgeOnBorder" classname="boofcv.alg.shapes.polygon.TestRefinePolygonCornersToImage" time="0.004"/>
+  <testcase name="perfectRectangle_subimage" classname="boofcv.alg.shapes.polygon.TestRefinePolygonCornersToImage" time="0.025"/>
+  <testcase name="pickEndIndex" classname="boofcv.alg.shapes.polygon.TestRefinePolygonCornersToImage" time="0.001"/>
+  <testcase name="pickEndIndex_bug0" classname="boofcv.alg.shapes.polygon.TestRefinePolygonCornersToImage" time="0.0"/>
+  <testcase name="distortedRectangle" classname="boofcv.alg.shapes.polygon.TestRefinePolygonCornersToImage" time="0.053"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

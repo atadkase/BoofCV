@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.fiducial.calib.squares.TestSquareRegularClustersIntoGrids" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:49" hostname="ashu-Lenovo-G50-70" time="0.002">
+  <properties/>
+  <testcase name="orderIntoGrid" classname="boofcv.alg.fiducial.calib.squares.TestSquareRegularClustersIntoGrids" time="0.0"/>
+  <testcase name="pickNot_1" classname="boofcv.alg.fiducial.calib.squares.TestSquareRegularClustersIntoGrids" time="0.0"/>
+  <testcase name="pickNot_2" classname="boofcv.alg.fiducial.calib.squares.TestSquareRegularClustersIntoGrids" time="0.001"/>
+  <testcase name="highLevelCheck" classname="boofcv.alg.fiducial.calib.squares.TestSquareRegularClustersIntoGrids" time="0.0"/>
+  <testcase name="addRows" classname="boofcv.alg.fiducial.calib.squares.TestSquareRegularClustersIntoGrids" time="0.0"/>
+  <testcase name="checkNumberOfConnections_positive" classname="boofcv.alg.fiducial.calib.squares.TestSquareRegularClustersIntoGrids" time="0.0"/>
+  <testcase name="checkNumberOfConnections_negative" classname="boofcv.alg.fiducial.calib.squares.TestSquareRegularClustersIntoGrids" time="0.0"/>
+  <testcase name="addLineToGrid" classname="boofcv.alg.fiducial.calib.squares.TestSquareRegularClustersIntoGrids" time="0.001"/>
+  <testcase name="orderInfoLine" classname="boofcv.alg.fiducial.calib.squares.TestSquareRegularClustersIntoGrids" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

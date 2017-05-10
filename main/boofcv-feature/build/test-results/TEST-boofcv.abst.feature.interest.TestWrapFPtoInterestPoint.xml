@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.feature.interest.TestWrapFPtoInterestPoint" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:17" hostname="ashu-Lenovo-G50-70" time="0.021">
+  <properties/>
+  <testcase name="checkExpectedCharacteristics" classname="boofcv.abst.feature.interest.TestWrapFPtoInterestPoint" time="0.0"/>
+  <testcase name="checkSubImage" classname="boofcv.abst.feature.interest.TestWrapFPtoInterestPoint" time="0.014"/>
+  <testcase name="checkDetect" classname="boofcv.abst.feature.interest.TestWrapFPtoInterestPoint" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

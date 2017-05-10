@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.blur.TestBlurImageOps" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:19" hostname="ashu-Lenovo-G50-70" time="0.062">
+  <properties/>
+  <testcase name="gaussian" classname="boofcv.alg.filter.blur.TestBlurImageOps" time="0.033"/>
+  <testcase name="median" classname="boofcv.alg.filter.blur.TestBlurImageOps" time="0.02"/>
+  <testcase name="mean" classname="boofcv.alg.filter.blur.TestBlurImageOps" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.shapes.edge.TestScoreLineSegmentEdge" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:30" hostname="ashu-Lenovo-G50-70" time="0.004">
+  <properties/>
+  <testcase name="checkImageBorder" classname="boofcv.alg.shapes.edge.TestScoreLineSegmentEdge" time="0.003"/>
+  <testcase name="checkIsAverage" classname="boofcv.alg.shapes.edge.TestScoreLineSegmentEdge" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.feature.detdesc.TestSurfPlanar_to_DetectDescribePoint" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:16" hostname="ashu-Lenovo-G50-70" time="0.319">
+  <properties/>
+  <testcase name="hasOrientation" classname="boofcv.abst.feature.detdesc.TestSurfPlanar_to_DetectDescribePoint" time="0.04"/>
+  <testcase name="checkMultipleCalls" classname="boofcv.abst.feature.detdesc.TestSurfPlanar_to_DetectDescribePoint" time="0.067"/>
+  <testcase name="hasScale" classname="boofcv.abst.feature.detdesc.TestSurfPlanar_to_DetectDescribePoint" time="0.0"/>
+  <testcase name="checkSubImage" classname="boofcv.abst.feature.detdesc.TestSurfPlanar_to_DetectDescribePoint" time="0.043"/>
+  <testcase name="getDescriptorType" classname="boofcv.abst.feature.detdesc.TestSurfPlanar_to_DetectDescribePoint" time="0.0"/>
+  <testcase name="detectFeatures" classname="boofcv.abst.feature.detdesc.TestSurfPlanar_to_DetectDescribePoint" time="0.164"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

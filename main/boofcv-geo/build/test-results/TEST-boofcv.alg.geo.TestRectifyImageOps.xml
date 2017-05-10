@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.geo.TestRectifyImageOps" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:48" hostname="ashu-Lenovo-G50-70" time="0.041">
+  <properties/>
+  <testcase name="allInsideLeft_calibrated" classname="boofcv.alg.geo.TestRectifyImageOps" time="0.021"/>
+  <testcase name="fullViewLeft_uncalibrated" classname="boofcv.alg.geo.TestRectifyImageOps" time="0.005"/>
+  <testcase name="transformPixelToRectNorm_F64" classname="boofcv.alg.geo.TestRectifyImageOps" time="0.01"/>
+  <testcase name="fullViewLeft_calibrated" classname="boofcv.alg.geo.TestRectifyImageOps" time="0.003"/>
+  <testcase name="transform_PixelToRect_and_RectToPixel_F32" classname="boofcv.alg.geo.TestRectifyImageOps" time="0.0"/>
+  <testcase name="transform_PixelToRect_and_RectToPixel_F64" classname="boofcv.alg.geo.TestRectifyImageOps" time="0.0"/>
+  <testcase name="allInsideLeft_uncalibrated" classname="boofcv.alg.geo.TestRectifyImageOps" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

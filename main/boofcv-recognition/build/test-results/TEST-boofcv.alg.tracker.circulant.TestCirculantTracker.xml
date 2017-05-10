@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.tracker.circulant.TestCirculantTracker" tests="10" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:49" hostname="ashu-Lenovo-G50-70" time="0.045">
+  <properties/>
+  <testcase name="computeCosineWindow" classname="boofcv.alg.tracker.circulant.TestCirculantTracker" time="0.0"/>
+  <testcase name="performLearning" classname="boofcv.alg.tracker.circulant.TestCirculantTracker" time="0.004"/>
+  <testcase name="imageDotProduct" classname="boofcv.alg.tracker.circulant.TestCirculantTracker" time="0.001"/>
+  <testcase name="updateTrackLocation" classname="boofcv.alg.tracker.circulant.TestCirculantTracker" time="0.01"/>
+  <testcase name="meanShift" classname="boofcv.alg.tracker.circulant.TestCirculantTracker" time="0.001"/>
+  <testcase name="basicTrackingCheck" classname="boofcv.alg.tracker.circulant.TestCirculantTracker" time="0.006"/>
+  <testcase name="computeAlphas" classname="boofcv.alg.tracker.circulant.TestCirculantTracker" time="0.008"/>
+  <testcase name="computeGaussianWeights" classname="boofcv.alg.tracker.circulant.TestCirculantTracker" time="0.0"/>
+  <testcase name="dense_gauss_kernel" classname="boofcv.alg.tracker.circulant.TestCirculantTracker" time="0.008"/>
+  <testcase name="elementMultConjB" classname="boofcv.alg.tracker.circulant.TestCirculantTracker" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.boofcv.android
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1494442369000
+Bundle-Vendor: BoofCV
+Bundle-DocURL: http://boofcv.org
+Import-Package: android.app,android.content,android.graphics,android.h
+ ardware,android.os,android.util,android.view,android.widget,boofcv.al
+ g.feature.detect.edge;version="[0.27,1)",boofcv.alg.misc;version="[0.
+ 27,1)",boofcv.alg.segmentation;version="[0.27,1)",boofcv.core.encodin
+ g;version="[0.27,1)",boofcv.struct.image;version="[0.27,1)",georegres
+ sion.struct.point;version="[0.13,1)",org.ddogleg.struct;version="[0.1
+ 1,1)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-2.4.0.201411031534
+Export-Package: boofcv.android;version="0.27.0.SNAPSHOT";uses:="androi
+ d.graphics,boofcv.alg.feature.detect.edge,boofcv.struct.image,org.ddo
+ gleg.struct",boofcv.android.gui;version="0.27.0.SNAPSHOT";uses:="andr
+ oid.app,android.content,android.graphics,android.hardware,android.os,
+ android.view,android.widget,boofcv.struct.image,georegression.struct.
+ point"
+Bundle-Version: 0.27.0.SNAPSHOT
+Bundle-Name: boofcv-android
+Created-By: 1.8.0_131 (Oracle Corporation)
+

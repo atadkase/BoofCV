@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.disparity.impl.TestImplSelectRectStandard_S32_U8" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:28" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="confidenceFlatRegion" classname="boofcv.alg.feature.disparity.impl.TestImplSelectRectStandard_S32_U8" time="0.001"/>
+  <testcase name="testRightToLeftValidation" classname="boofcv.alg.feature.disparity.impl.TestImplSelectRectStandard_S32_U8" time="0.0"/>
+  <testcase name="basic" classname="boofcv.alg.feature.disparity.impl.TestImplSelectRectStandard_S32_U8" time="0.0"/>
+  <testcase name="maxError" classname="boofcv.alg.feature.disparity.impl.TestImplSelectRectStandard_S32_U8" time="0.0"/>
+  <testcase name="confidenceMultiplePeak" classname="boofcv.alg.feature.disparity.impl.TestImplSelectRectStandard_S32_U8" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

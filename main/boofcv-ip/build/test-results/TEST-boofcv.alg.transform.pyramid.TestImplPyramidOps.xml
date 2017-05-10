@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.transform.pyramid.TestImplPyramidOps" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:24" hostname="ashu-Lenovo-G50-70" time="0.005">
+  <properties/>
+  <testcase name="scaleImageUp" classname="boofcv.alg.transform.pyramid.TestImplPyramidOps" time="0.005"/>
+  <testcase name="scaleDown2" classname="boofcv.alg.transform.pyramid.TestImplPyramidOps" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

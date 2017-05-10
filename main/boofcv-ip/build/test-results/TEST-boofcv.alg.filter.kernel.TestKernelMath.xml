@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.kernel.TestKernelMath" tests="27" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:22" hostname="ashu-Lenovo-G50-70" time="0.004">
+  <properties/>
+  <testcase name="scale_F32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="scale_F64" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="normalizeMaxOne_F64_2D" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="convolve_1D_F64" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="convolve_1D_I32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="convert_1D_F64_to_I32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="transpose_F32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="transpose_I32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="fill_F32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="fill_I32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="convolve2D_1D_F32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="divide_1D_F32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="divide_1D_F64" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="convert_2D_F32_to_I32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="divide_2D_F32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="divide_2D_F64" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="convert_1D_F32_to_I32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="convertToImage_F32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="convertToImage_I32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="convolve1D_F32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="convolve2D_F32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="convertToKernel_F32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="convertToKernel_I32" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="normalizeSumToOne_F32_1D" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="normalizeSumToOne_F32_2D" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="normalizeSumToOne_F64_1D" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <testcase name="normalizeSumToOne_F64_2D" classname="boofcv.alg.filter.kernel.TestKernelMath" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

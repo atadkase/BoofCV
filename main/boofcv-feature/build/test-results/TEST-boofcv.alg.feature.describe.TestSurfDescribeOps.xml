@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.describe.TestSurfDescribeOps" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:21" hostname="ashu-Lenovo-G50-70" time="0.003">
+  <properties/>
+  <testcase name="isInside_aligned" classname="boofcv.alg.feature.describe.TestSurfDescribeOps" time="0.0"/>
+  <testcase name="gradient_noborder_F32" classname="boofcv.alg.feature.describe.TestSurfDescribeOps" time="0.0"/>
+  <testcase name="gradient_noborder_I32" classname="boofcv.alg.feature.describe.TestSurfDescribeOps" time="0.0"/>
+  <testcase name="gradient" classname="boofcv.alg.feature.describe.TestSurfDescribeOps" time="0.0"/>
+  <testcase name="isInside_rotated" classname="boofcv.alg.feature.describe.TestSurfDescribeOps" time="0.0"/>
+  <testcase name="isInside_rect" classname="boofcv.alg.feature.describe.TestSurfDescribeOps" time="0.0"/>
+  <testcase name="rotatedWidth" classname="boofcv.alg.feature.describe.TestSurfDescribeOps" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

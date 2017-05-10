@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.feature.detect.line.TestDetectLineHoughFoot" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:17" hostname="ashu-Lenovo-G50-70" time="0.088">
+  <properties/>
+  <testcase name="obviousLine" classname="boofcv.abst.feature.detect.line.TestDetectLineHoughFoot" time="0.085"/>
+  <testcase name="subImages" classname="boofcv.abst.feature.detect.line.TestDetectLineHoughFoot" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

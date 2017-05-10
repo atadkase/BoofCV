@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.descriptor.TestConvertDescriptors" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:21" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="real_F64" classname="boofcv.alg.descriptor.TestConvertDescriptors" time="0.0"/>
+  <testcase name="real_F64_zeros" classname="boofcv.alg.descriptor.TestConvertDescriptors" time="0.0"/>
+  <testcase name="convertNcc_F64" classname="boofcv.alg.descriptor.TestConvertDescriptors" time="0.0"/>
+  <testcase name="positive_F64" classname="boofcv.alg.descriptor.TestConvertDescriptors" time="0.0"/>
+  <testcase name="positive_F64_zeros" classname="boofcv.alg.descriptor.TestConvertDescriptors" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

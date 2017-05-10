@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.factory.filter.kernel.TestFactoryKernel" tests="10" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:28" hostname="ashu-Lenovo-G50-70" time="0.003">
+  <properties/>
+  <testcase name="random1D_F32" classname="boofcv.factory.filter.kernel.TestFactoryKernel" time="0.001"/>
+  <testcase name="random1D_F64" classname="boofcv.factory.filter.kernel.TestFactoryKernel" time="0.0"/>
+  <testcase name="random1D_I32" classname="boofcv.factory.filter.kernel.TestFactoryKernel" time="0.0"/>
+  <testcase name="random2D_F32" classname="boofcv.factory.filter.kernel.TestFactoryKernel" time="0.0"/>
+  <testcase name="random2D_I32" classname="boofcv.factory.filter.kernel.TestFactoryKernel" time="0.0"/>
+  <testcase name="table1D_I32" classname="boofcv.factory.filter.kernel.TestFactoryKernel" time="0.0"/>
+  <testcase name="get1DType" classname="boofcv.factory.filter.kernel.TestFactoryKernel" time="0.0"/>
+  <testcase name="table1D_F32_normalized" classname="boofcv.factory.filter.kernel.TestFactoryKernel" time="0.0"/>
+  <testcase name="getKernelType" classname="boofcv.factory.filter.kernel.TestFactoryKernel" time="0.0"/>
+  <testcase name="table1D_F32_unnormalized" classname="boofcv.factory.filter.kernel.TestFactoryKernel" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

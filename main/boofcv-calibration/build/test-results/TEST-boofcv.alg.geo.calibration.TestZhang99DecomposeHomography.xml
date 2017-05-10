@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.geo.calibration.TestZhang99DecomposeHomography" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:01" hostname="ashu-Lenovo-G50-70" time="0.0">
+  <properties/>
+  <testcase name="knownCase" classname="boofcv.alg.geo.calibration.TestZhang99DecomposeHomography" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

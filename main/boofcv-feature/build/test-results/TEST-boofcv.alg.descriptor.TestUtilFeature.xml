@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.descriptor.TestUtilFeature" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:21" hostname="ashu-Lenovo-G50-70" time="0.0">
+  <properties/>
+  <testcase name="normalizeL2_F64" classname="boofcv.alg.descriptor.TestUtilFeature" time="0.0"/>
+  <testcase name="combine" classname="boofcv.alg.descriptor.TestUtilFeature" time="0.0"/>
+  <testcase name="normalizeSumOne_zeros_F64" classname="boofcv.alg.descriptor.TestUtilFeature" time="0.0"/>
+  <testcase name="normalizeSumOne_F64" classname="boofcv.alg.descriptor.TestUtilFeature" time="0.0"/>
+  <testcase name="normalizeL2_zeros_F64" classname="boofcv.alg.descriptor.TestUtilFeature" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

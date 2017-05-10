@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.detect.interest.TestSiftDetector" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:23" hostname="ashu-Lenovo-G50-70" time="0.015">
+  <properties/>
+  <testcase name="isEdge" classname="boofcv.alg.feature.detect.interest.TestSiftDetector" time="0.0"/>
+  <testcase name="processFeatureCandidate_Shift" classname="boofcv.alg.feature.detect.interest.TestSiftDetector" time="0.0"/>
+  <testcase name="process" classname="boofcv.alg.feature.detect.interest.TestSiftDetector" time="0.014"/>
+  <testcase name="processFeatureCandidate_NoChange" classname="boofcv.alg.feature.detect.interest.TestSiftDetector" time="0.0"/>
+  <testcase name="isScaleSpaceExtremum" classname="boofcv.alg.feature.detect.interest.TestSiftDetector" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.convolve.down.TestConvolveDownNoBorderUnrolled_U8_S16" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:21" hostname="ashu-Lenovo-G50-70" time="0.065">
+  <properties/>
+  <testcase name="vertical" classname="boofcv.alg.filter.convolve.down.TestConvolveDownNoBorderUnrolled_U8_S16" time="0.014"/>
+  <testcase name="convolve" classname="boofcv.alg.filter.convolve.down.TestConvolveDownNoBorderUnrolled_U8_S16" time="0.035"/>
+  <testcase name="horizontal" classname="boofcv.alg.filter.convolve.down.TestConvolveDownNoBorderUnrolled_U8_S16" time="0.016"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

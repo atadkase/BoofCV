@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.derivative.TestHessianFromGradient" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:22" hostname="ashu-Lenovo-G50-70" time="0.028">
+  <properties/>
+  <testcase name="hessianSobel_I8" classname="boofcv.alg.filter.derivative.TestHessianFromGradient" time="0.007"/>
+  <testcase name="hessianThree_I8" classname="boofcv.alg.filter.derivative.TestHessianFromGradient" time="0.002"/>
+  <testcase name="hessianPrewitt_I8" classname="boofcv.alg.filter.derivative.TestHessianFromGradient" time="0.005"/>
+  <testcase name="hessianPrewitt_F32" classname="boofcv.alg.filter.derivative.TestHessianFromGradient" time="0.006"/>
+  <testcase name="hessianSobel_F32" classname="boofcv.alg.filter.derivative.TestHessianFromGradient" time="0.004"/>
+  <testcase name="hessianThree_F32" classname="boofcv.alg.filter.derivative.TestHessianFromGradient" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

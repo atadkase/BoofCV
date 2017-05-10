@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.disparity.impl.TestSelectRectSubpixel_S32_F32" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:28" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="addSubpixelBias" classname="boofcv.alg.feature.disparity.impl.TestSelectRectSubpixel_S32_F32" time="0.0"/>
+  <testcase name="confidenceFlatRegion" classname="boofcv.alg.feature.disparity.impl.TestSelectRectSubpixel_S32_F32" time="0.0"/>
+  <testcase name="testRightToLeftValidation" classname="boofcv.alg.feature.disparity.impl.TestSelectRectSubpixel_S32_F32" time="0.0"/>
+  <testcase name="basic" classname="boofcv.alg.feature.disparity.impl.TestSelectRectSubpixel_S32_F32" time="0.0"/>
+  <testcase name="maxError" classname="boofcv.alg.feature.disparity.impl.TestSelectRectSubpixel_S32_F32" time="0.0"/>
+  <testcase name="confidenceMultiplePeak" classname="boofcv.alg.feature.disparity.impl.TestSelectRectSubpixel_S32_F32" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

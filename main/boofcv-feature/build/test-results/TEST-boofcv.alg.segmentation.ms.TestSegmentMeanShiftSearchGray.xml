@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.segmentation.ms.TestSegmentMeanShiftSearchGray" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:29" hostname="ashu-Lenovo-G50-70" time="0.016">
+  <properties/>
+  <testcase name="simpleTest" classname="boofcv.alg.segmentation.ms.TestSegmentMeanShiftSearchGray" time="0.016"/>
+  <testcase name="findPeak_border" classname="boofcv.alg.segmentation.ms.TestSegmentMeanShiftSearchGray" time="0.0"/>
+  <testcase name="findPeak_inside" classname="boofcv.alg.segmentation.ms.TestSegmentMeanShiftSearchGray" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

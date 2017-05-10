@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.shapes.edge.TestEdgeIntensityPolygon" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:30" hostname="ashu-Lenovo-G50-70" time="0.017">
+  <properties/>
+  <testcase name="checkIntensity" classname="boofcv.alg.shapes.edge.TestEdgeIntensityPolygon" time="0.017"/>
+  <testcase name="computeEdge" classname="boofcv.alg.shapes.edge.TestEdgeIntensityPolygon" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

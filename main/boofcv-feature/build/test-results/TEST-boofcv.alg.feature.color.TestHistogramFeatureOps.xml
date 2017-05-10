@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.color.TestHistogramFeatureOps" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:21" hostname="ashu-Lenovo-G50-70" time="0.003">
+  <properties/>
+  <testcase name="histogram_PL_F32_compareToSingle" classname="boofcv.alg.feature.color.TestHistogramFeatureOps" time="0.0"/>
+  <testcase name="histogram_PL_F32" classname="boofcv.alg.feature.color.TestHistogramFeatureOps" time="0.0"/>
+  <testcase name="histogram_F32" classname="boofcv.alg.feature.color.TestHistogramFeatureOps" time="0.0"/>
+  <testcase name="histogram_U16" classname="boofcv.alg.feature.color.TestHistogramFeatureOps" time="0.001"/>
+  <testcase name="histogram_PL_U8" classname="boofcv.alg.feature.color.TestHistogramFeatureOps" time="0.0"/>
+  <testcase name="histogram_U8" classname="boofcv.alg.feature.color.TestHistogramFeatureOps" time="0.001"/>
+  <testcase name="histogram_PL_U8_compareToSingle" classname="boofcv.alg.feature.color.TestHistogramFeatureOps" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

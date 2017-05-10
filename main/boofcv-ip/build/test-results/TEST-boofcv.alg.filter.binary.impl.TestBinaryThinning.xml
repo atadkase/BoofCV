@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.binary.impl.TestBinaryThinning" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:18" hostname="ashu-Lenovo-G50-70" time="0.146">
+  <properties/>
+  <testcase name="checkSameInnerAndOuter" classname="boofcv.alg.filter.binary.impl.TestBinaryThinning" time="0.145"/>
+  <testcase name="thinning_line2pixel" classname="boofcv.alg.filter.binary.impl.TestBinaryThinning" time="0.0"/>
+  <testcase name="checkGenericMask" classname="boofcv.alg.filter.binary.impl.TestBinaryThinning" time="0.001"/>
+  <testcase name="thinning" classname="boofcv.alg.filter.binary.impl.TestBinaryThinning" time="0.0"/>
+  <testcase name="checkInnerMask" classname="boofcv.alg.filter.binary.impl.TestBinaryThinning" time="0.0"/>
+  <testcase name="findBlackPixels" classname="boofcv.alg.filter.binary.impl.TestBinaryThinning" time="0.0"/>
+  <system-out><![CDATA[mask 0
+mask 1
+mask 2
+mask 3
+mask 4
+mask 5
+mask 6
+mask 7
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

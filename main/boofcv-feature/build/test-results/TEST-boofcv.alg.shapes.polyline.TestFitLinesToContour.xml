@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.shapes.polyline.TestFitLinesToContour" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:34" hostname="ashu-Lenovo-G50-70" time="0.002">
+  <properties/>
+  <testcase name="sanityCheckCornerOrder" classname="boofcv.alg.shapes.polyline.TestFitLinesToContour" time="0.0"/>
+  <testcase name="fitAnchored_perfect_input" classname="boofcv.alg.shapes.polyline.TestFitLinesToContour" time="0.002"/>
+  <testcase name="fitLinesUsingCorners" classname="boofcv.alg.shapes.polyline.TestFitLinesToContour" time="0.0"/>
+  <testcase name="fitLine" classname="boofcv.alg.shapes.polyline.TestFitLinesToContour" time="0.0"/>
+  <testcase name="closestPoint" classname="boofcv.alg.shapes.polyline.TestFitLinesToContour" time="0.0"/>
+  <testcase name="linesIntoCorners" classname="boofcv.alg.shapes.polyline.TestFitLinesToContour" time="0.0"/>
+  <testcase name="fitAnchored_easy_optimization" classname="boofcv.alg.shapes.polyline.TestFitLinesToContour" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

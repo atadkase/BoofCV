@@ -23,6 +23,7 @@ import boofcv.abst.tracker.*;
 import boofcv.alg.filter.derivative.GImageDerivativeOps;
 import boofcv.alg.interpolate.InterpolatePixelS;
 import boofcv.alg.tracker.circulant.CirculantTracker;
+import boofcv.alg.tracker.circulant.CirculantTrackerFloat;
 import boofcv.alg.tracker.meanshift.PixelLikelihood;
 import boofcv.alg.tracker.meanshift.TrackerMeanShiftComaniciu2003;
 import boofcv.alg.tracker.meanshift.TrackerMeanShiftLikelihood;
@@ -177,4 +178,15 @@ public class FactoryTrackerObjectQuad {
 
 		return new Circulant_to_TrackerObjectQuad<>(alg, ImageType.single(imageType));
 	}
+
+
+	public static <T extends ImageGray<T>>
+	TrackerObjectQuadFloat<T> circulantFloat( ConfigCirculantTrackerFloat config , Class<T> imageType ) {
+
+		CirculantTrackerFloat<T> alg = FactoryTrackerObjectAlgs.circulantFloat(config,imageType);
+
+		return new Circulant_to_TrackerObjectQuadFloat<>(alg, ImageType.single(imageType));
+	}
+
+
 }

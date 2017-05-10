@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoAsymmetricGrid" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:49" hostname="ashu-Lenovo-G50-70" time="0.007">
+  <properties/>
+  <testcase name="checkGridSize" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoAsymmetricGrid" time="0.002"/>
+  <testcase name="selectInnerSeed" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoAsymmetricGrid" time="0.0"/>
+  <testcase name="process_affine" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoAsymmetricGrid" time="0.003"/>
+  <testcase name="process" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoAsymmetricGrid" time="0.0"/>
+  <testcase name="findInnerGrid" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoAsymmetricGrid" time="0.0"/>
+  <testcase name="process_too_small" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoAsymmetricGrid" time="0.0"/>
+  <testcase name="process_multiple_calls" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoAsymmetricGrid" time="0.0"/>
+  <testcase name="process_multiple_grids" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoAsymmetricGrid" time="0.001"/>
+  <testcase name="combineGrids" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoAsymmetricGrid" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

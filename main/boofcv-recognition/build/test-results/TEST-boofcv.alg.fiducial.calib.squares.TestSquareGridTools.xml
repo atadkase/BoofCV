@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.fiducial.calib.squares.TestSquareGridTools" tests="14" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:49" hostname="ashu-Lenovo-G50-70" time="0.007">
+  <properties/>
+  <testcase name="orderNodeGrid" classname="boofcv.alg.fiducial.calib.squares.TestSquareGridTools" time="0.002"/>
+  <testcase name="boundingPolygonCCW_rect" classname="boofcv.alg.fiducial.calib.squares.TestSquareGridTools" time="0.0"/>
+  <testcase name="orderNode" classname="boofcv.alg.fiducial.calib.squares.TestSquareGridTools" time="0.0"/>
+  <testcase name="putIntoCanonical_square" classname="boofcv.alg.fiducial.calib.squares.TestSquareGridTools" time="0.003"/>
+  <testcase name="findIntersection" classname="boofcv.alg.fiducial.calib.squares.TestSquareGridTools" time="0.0"/>
+  <testcase name="computeSize" classname="boofcv.alg.fiducial.calib.squares.TestSquareGridTools" time="0.0"/>
+  <testcase name="checkFlip" classname="boofcv.alg.fiducial.calib.squares.TestSquareGridTools" time="0.0"/>
+  <testcase name="transpose" classname="boofcv.alg.fiducial.calib.squares.TestSquareGridTools" time="0.0"/>
+  <testcase name="flipColumns" classname="boofcv.alg.fiducial.calib.squares.TestSquareGridTools" time="0.0"/>
+  <testcase name="extractCalibrationPoints" classname="boofcv.alg.fiducial.calib.squares.TestSquareGridTools" time="0.001"/>
+  <testcase name="boundingPolygonCCW_column" classname="boofcv.alg.fiducial.calib.squares.TestSquareGridTools" time="0.0"/>
+  <testcase name="boundingPolygonCCW_row" classname="boofcv.alg.fiducial.calib.squares.TestSquareGridTools" time="0.0"/>
+  <testcase name="putIntoCanonical_rectangle" classname="boofcv.alg.fiducial.calib.squares.TestSquareGridTools" time="0.0"/>
+  <testcase name="flipRows" classname="boofcv.alg.fiducial.calib.squares.TestSquareGridTools" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

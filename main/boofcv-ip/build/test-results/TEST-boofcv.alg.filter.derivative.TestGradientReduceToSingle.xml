@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.derivative.TestGradientReduceToSingle" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:22" hostname="ashu-Lenovo-G50-70" time="0.006">
+  <properties/>
+  <testcase name="maxf_plfu8_u8" classname="boofcv.alg.filter.derivative.TestGradientReduceToSingle" time="0.005"/>
+  <testcase name="maxf_plf32_f32" classname="boofcv.alg.filter.derivative.TestGradientReduceToSingle" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

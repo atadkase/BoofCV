@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.misc.TestGPixelMath" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:23" hostname="ashu-Lenovo-G50-70" time="0.039">
+  <properties/>
+  <testcase name="divide_planar_by_gray_3" classname="boofcv.alg.misc.TestGPixelMath" time="0.001"/>
+  <testcase name="multiply_planar_by_gray_3" classname="boofcv.alg.misc.TestGPixelMath" time="0.0"/>
+  <testcase name="all_planar_images" classname="boofcv.alg.misc.TestGPixelMath" time="0.011"/>
+  <testcase name="compareToPixelMath" classname="boofcv.alg.misc.TestGPixelMath" time="0.027"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

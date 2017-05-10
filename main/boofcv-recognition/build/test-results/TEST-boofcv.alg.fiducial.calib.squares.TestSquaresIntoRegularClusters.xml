@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.fiducial.calib.squares.TestSquaresIntoRegularClusters" tests="12" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:49" hostname="ashu-Lenovo-G50-70" time="0.005">
+  <properties/>
+  <testcase name="considerConnect_nominal" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoRegularClusters" time="0.001"/>
+  <testcase name="connectNodes_oneCluster" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoRegularClusters" time="0.0"/>
+  <testcase name="connectNodes_twoCluster" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoRegularClusters" time="0.001"/>
+  <testcase name="considerConnect_shape_size" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoRegularClusters" time="0.0"/>
+  <testcase name="process" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoRegularClusters" time="0.002"/>
+  <testcase name="acuteAngle" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoRegularClusters" time="0.001"/>
+  <testcase name="mostParallel" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoRegularClusters" time="0.0"/>
+  <testcase name="findSideIntersect" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoRegularClusters" time="0.0"/>
+  <testcase name="computeNodeInfo" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoRegularClusters" time="0.0"/>
+  <testcase name="checkConnect" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoRegularClusters" time="0.0"/>
+  <testcase name="areMiddlePointsClose" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoRegularClusters" time="0.0"/>
+  <testcase name="considerConnect_shape_offset" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoRegularClusters" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.geo.TestRodriguesRotationGradient" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:48" hostname="ashu-Lenovo-G50-70" time="0.003">
+  <properties/>
+  <testcase name="checkUsingNumerical" classname="boofcv.alg.geo.TestRodriguesRotationGradient" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

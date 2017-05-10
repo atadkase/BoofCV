@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.boofcv.javacv
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1494442334000
+Bundle-Vendor: BoofCV
+Bundle-DocURL: http://boofcv.org
+Import-Package: boofcv.alg.geo,boofcv.core.image;version="[0.27,1)",bo
+ ofcv.io.image;version="[0.27,1)",boofcv.io.video;version="[0.27,1)",b
+ oofcv.struct.calib;version="[0.27,1)",boofcv.struct.image;version="[0
+ .27,1)",org.bytedeco.javacpp,org.bytedeco.javacpp.indexer,org.bytedec
+ o.javacv,org.ejml.data;version="[0.31,1)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-2.4.0.201411031534
+Export-Package: boofcv.io.javacv;version="0.27.0.SNAPSHOT";uses:="boof
+ cv.io.image,boofcv.io.video,boofcv.struct.image",boofcv.javacv;versio
+ n="0.27.0.SNAPSHOT";uses:="boofcv.struct.calib,boofcv.struct.image,or
+ g.bytedeco.javacpp,org.ejml.data"
+Bundle-Version: 0.27.0.SNAPSHOT
+Bundle-Name: boofcv-javacv
+Created-By: 1.8.0_131 (Oracle Corporation)
+

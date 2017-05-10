@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.boofcv.jcodec
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1494442369000
+Bundle-Vendor: BoofCV
+Bundle-DocURL: http://boofcv.org
+Import-Package: boofcv.io;version="[0.27,1)",boofcv.io.image;version="
+ [0.27,1)",boofcv.io.video;version="[0.27,1)",boofcv.io.wrapper.images
+ ;version="[0.27,1)",boofcv.struct.image;version="[0.27,1)",org.jcodec
+ .api,org.jcodec.common,org.jcodec.common.model
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-2.4.0.201411031534
+Export-Package: boofcv.io.jcodec;version="0.27.0.SNAPSHOT";uses:="boof
+ cv.io,boofcv.io.image,boofcv.io.video,boofcv.struct.image,org.jcodec.
+ common.model"
+Bundle-Version: 0.27.0.SNAPSHOT
+Bundle-Name: boofcv-jcodec
+Created-By: 1.8.0_131 (Oracle Corporation)
+

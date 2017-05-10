@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.fiducial.calib.squares.TestSquaresIntoCrossClusters" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:49" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="shapesOnBorder" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoCrossClusters" time="0.0"/>
+  <testcase name="getCornerIndex" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoCrossClusters" time="0.0"/>
+  <testcase name="candidateIsMuchCloser" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoCrossClusters" time="0.001"/>
+  <testcase name="process_simple" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoCrossClusters" time="0.0"/>
+  <testcase name="process_connect_threshold" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoCrossClusters" time="0.0"/>
+  <testcase name="considerConnect" classname="boofcv.alg.fiducial.calib.squares.TestSquaresIntoCrossClusters" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

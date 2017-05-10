@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.tracker.tld.TestTldTemplateMatching" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:49" hostname="ashu-Lenovo-G50-70" time="0.007">
+  <properties/>
+  <testcase name="addDescriptor" classname="boofcv.alg.tracker.tld.TestTldTemplateMatching" time="0.0"/>
+  <testcase name="computeConfidence" classname="boofcv.alg.tracker.tld.TestTldTemplateMatching" time="0.0"/>
+  <testcase name="reset" classname="boofcv.alg.tracker.tld.TestTldTemplateMatching" time="0.0"/>
+  <testcase name="distance" classname="boofcv.alg.tracker.tld.TestTldTemplateMatching" time="0.0"/>
+  <testcase name="computeNccDescriptor" classname="boofcv.alg.tracker.tld.TestTldTemplateMatching" time="0.005"/>
+  <testcase name="createDescriptor" classname="boofcv.alg.tracker.tld.TestTldTemplateMatching" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

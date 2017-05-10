@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.feature.detdesc.TestWrapDetectDescribeSurf" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:16" hostname="ashu-Lenovo-G50-70" time="0.251">
+  <properties/>
+  <testcase name="hasOrientation" classname="boofcv.abst.feature.detdesc.TestWrapDetectDescribeSurf" time="0.011"/>
+  <testcase name="checkMultipleCalls" classname="boofcv.abst.feature.detdesc.TestWrapDetectDescribeSurf" time="0.063"/>
+  <testcase name="hasScale" classname="boofcv.abst.feature.detdesc.TestWrapDetectDescribeSurf" time="0.0"/>
+  <testcase name="checkSubImage" classname="boofcv.abst.feature.detdesc.TestWrapDetectDescribeSurf" time="0.025"/>
+  <testcase name="getDescriptorType" classname="boofcv.abst.feature.detdesc.TestWrapDetectDescribeSurf" time="0.0"/>
+  <testcase name="detectFeatures" classname="boofcv.abst.feature.detdesc.TestWrapDetectDescribeSurf" time="0.149"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

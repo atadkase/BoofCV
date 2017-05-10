@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.derivative.impl.TestGradientSobel_Outer" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:21" hostname="ashu-Lenovo-G50-70" time="0.34">
+  <properties/>
+  <testcase name="process_I8_sub_naive" classname="boofcv.alg.filter.derivative.impl.TestGradientSobel_Outer" time="0.182"/>
+  <testcase name="process_F32_naive" classname="boofcv.alg.filter.derivative.impl.TestGradientSobel_Outer" time="0.109"/>
+  <testcase name="process_I8_naive" classname="boofcv.alg.filter.derivative.impl.TestGradientSobel_Outer" time="0.048"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

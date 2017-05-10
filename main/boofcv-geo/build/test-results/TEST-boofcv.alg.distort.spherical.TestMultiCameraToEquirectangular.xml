@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.distort.spherical.TestMultiCameraToEquirectangular" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:47" hostname="ashu-Lenovo-G50-70" time="0.36">
+  <properties/>
+  <testcase name="addCamera_implicit_mask" classname="boofcv.alg.distort.spherical.TestMultiCameraToEquirectangular" time="0.123"/>
+  <testcase name="all" classname="boofcv.alg.distort.spherical.TestMultiCameraToEquirectangular" time="0.172"/>
+  <testcase name="addCamera_explicit_mask" classname="boofcv.alg.distort.spherical.TestMultiCameraToEquirectangular" time="0.064"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

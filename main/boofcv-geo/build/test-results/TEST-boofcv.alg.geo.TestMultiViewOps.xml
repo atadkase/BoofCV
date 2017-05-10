@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.geo.TestMultiViewOps" tests="27" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:48" hostname="ashu-Lenovo-G50-70" time="0.009">
+  <properties/>
+  <testcase name="homographyStereo3Pts" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="canonicalCamera" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="homographyStereo2Lines" classname="boofcv.alg.geo.TestMultiViewOps" time="0.001"/>
+  <testcase name="extractEpipoles_stereo" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="computeFundamental2" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="decomposeEssential" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="homographyStereoLinePt" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="constraint_Trifocal_lll" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="constraint_Trifocal_pll" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="constraint_Trifocal_plp" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="constraint_Trifocal_ppl" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="constraint_Trifocal_ppp" classname="boofcv.alg.geo.TestMultiViewOps" time="0.001"/>
+  <testcase name="createTrifocal_CameraMatrix" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="constraint_epipolar" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="computeFundamental" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="extractEpipoles_threeview" classname="boofcv.alg.geo.TestMultiViewOps" time="0.001"/>
+  <testcase name="createTrifocal_SE" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="createEssential" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="constraint_homography" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="extractCameraMatrices" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="extractFundamental_threeview" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="decomposeCameraMatrix" classname="boofcv.alg.geo.TestMultiViewOps" time="0.001"/>
+  <testcase name="decomposeHomography" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="createHomography_uncalibrated" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="inducedHomography12" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="inducedHomography13" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <testcase name="createHomography_calibrated" classname="boofcv.alg.geo.TestMultiViewOps" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.fiducial.TestSquareBinary_to_FiducialDetector" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:36" hostname="ashu-Lenovo-G50-70" time="1.641">
+  <properties/>
+  <testcase name="checkRemoveIntrinsic" classname="boofcv.abst.fiducial.TestSquareBinary_to_FiducialDetector" time="0.224"/>
+  <testcase name="modifyInput" classname="boofcv.abst.fiducial.TestSquareBinary_to_FiducialDetector" time="0.224"/>
+  <testcase name="checkStability" classname="boofcv.abst.fiducial.TestSquareBinary_to_FiducialDetector" time="0.277"/>
+  <testcase name="checkImageLocation" classname="boofcv.abst.fiducial.TestSquareBinary_to_FiducialDetector" time="0.178"/>
+  <testcase name="checkSubImage" classname="boofcv.abst.fiducial.TestSquareBinary_to_FiducialDetector" time="0.174"/>
+  <testcase name="is3dWithNoIntrinsic" classname="boofcv.abst.fiducial.TestSquareBinary_to_FiducialDetector" time="0.001"/>
+  <testcase name="clearLensDistortion" classname="boofcv.abst.fiducial.TestSquareBinary_to_FiducialDetector" time="0.201"/>
+  <testcase name="checkMultipleRuns" classname="boofcv.abst.fiducial.TestSquareBinary_to_FiducialDetector" time="0.166"/>
+  <testcase name="checkHandleNewIntrinsic" classname="boofcv.abst.fiducial.TestSquareBinary_to_FiducialDetector" time="0.196"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

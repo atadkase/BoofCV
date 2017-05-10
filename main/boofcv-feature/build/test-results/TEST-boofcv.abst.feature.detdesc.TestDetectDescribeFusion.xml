@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.feature.detdesc.TestDetectDescribeFusion" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:14" hostname="ashu-Lenovo-G50-70" time="0.399">
+  <properties/>
+  <testcase name="checkWithOrientation" classname="boofcv.abst.feature.detdesc.TestDetectDescribeFusion" time="0.298"/>
+  <testcase name="checkWithoutOrientation" classname="boofcv.abst.feature.detdesc.TestDetectDescribeFusion" time="0.098"/>
+  <testcase name="checkFeatureNotInBounds" classname="boofcv.abst.feature.detdesc.TestDetectDescribeFusion" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

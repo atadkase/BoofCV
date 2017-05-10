@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.shapes.TestShapeFittingOps" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:34" hostname="ashu-Lenovo-G50-70" time="0.07">
+  <properties/>
+  <testcase name="fitEllipse_F64" classname="boofcv.alg.shapes.TestShapeFittingOps" time="0.042"/>
+  <testcase name="fitEllipse_I32" classname="boofcv.alg.shapes.TestShapeFittingOps" time="0.0"/>
+  <testcase name="averageCircle_F64" classname="boofcv.alg.shapes.TestShapeFittingOps" time="0.0"/>
+  <testcase name="averageCircle_I32" classname="boofcv.alg.shapes.TestShapeFittingOps" time="0.0"/>
+  <testcase name="fitPolygon_loop" classname="boofcv.alg.shapes.TestShapeFittingOps" time="0.001"/>
+  <testcase name="fitEllipse_F64_error" classname="boofcv.alg.shapes.TestShapeFittingOps" time="0.026"/>
+  <testcase name="fitPolygon_regular" classname="boofcv.alg.shapes.TestShapeFittingOps" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

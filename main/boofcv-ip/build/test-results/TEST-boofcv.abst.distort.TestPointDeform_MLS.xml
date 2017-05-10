@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.distort.TestPointDeform_MLS" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:16" hostname="ashu-Lenovo-G50-70" time="0.106">
+  <properties/>
+  <testcase name="individualDstSameAsAll" classname="boofcv.abst.distort.TestPointDeform_MLS" time="0.071"/>
+  <testcase name="individualSrcSameAsAll" classname="boofcv.abst.distort.TestPointDeform_MLS" time="0.024"/>
+  <testcase name="checkPointsCopied" classname="boofcv.abst.distort.TestPointDeform_MLS" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

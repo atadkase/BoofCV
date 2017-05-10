@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.tracker.tld.TestTldFernManager" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:49" hostname="ashu-Lenovo-G50-70" time="0.0">
+  <properties/>
+  <testcase name="constructor" classname="boofcv.alg.tracker.tld.TestTldFernManager" time="0.0"/>
+  <testcase name="reset" classname="boofcv.alg.tracker.tld.TestTldFernManager" time="0.0"/>
+  <testcase name="lookupFern" classname="boofcv.alg.tracker.tld.TestTldFernManager" time="0.0"/>
+  <testcase name="createFern" classname="boofcv.alg.tracker.tld.TestTldFernManager" time="0.0"/>
+  <testcase name="lookupPosterior" classname="boofcv.alg.tracker.tld.TestTldFernManager" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

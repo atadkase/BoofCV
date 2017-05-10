@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.transform.fft.TestGeneralPurposeFFT_F64_2D" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:24" hostname="ashu-Lenovo-G50-70" time="0.436">
+  <properties/>
+  <testcase name="realFull" classname="boofcv.alg.transform.fft.TestGeneralPurposeFFT_F64_2D" time="0.375"/>
+  <testcase name="complex" classname="boofcv.alg.transform.fft.TestGeneralPurposeFFT_F64_2D" time="0.06"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.convolve.TestConvolveImageNoBorder" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:20" hostname="ashu-Lenovo-G50-70" time="0.222">
+  <properties/>
+  <testcase name="compareToStandard_even" classname="boofcv.alg.filter.convolve.TestConvolveImageNoBorder" time="0.1"/>
+  <testcase name="compareToStandard_UNsymmetric" classname="boofcv.alg.filter.convolve.TestConvolveImageNoBorder" time="0.063"/>
+  <testcase name="compareToStandard_symmetric" classname="boofcv.alg.filter.convolve.TestConvolveImageNoBorder" time="0.059"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

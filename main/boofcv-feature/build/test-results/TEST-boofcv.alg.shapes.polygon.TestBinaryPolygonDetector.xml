@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.shapes.polygon.TestBinaryPolygonDetector" tests="12" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:33" hostname="ashu-Lenovo-G50-70" time="0.707">
+  <properties/>
+  <testcase name="isUndistortedOnBorder" classname="boofcv.alg.shapes.polygon.TestBinaryPolygonDetector" time="0.38"/>
+  <testcase name="rejectShapes_triangle" classname="boofcv.alg.shapes.polygon.TestBinaryPolygonDetector" time="0.058"/>
+  <testcase name="touchesBorder_false" classname="boofcv.alg.shapes.polygon.TestBinaryPolygonDetector" time="0.0"/>
+  <testcase name="easyTestNoDistortion" classname="boofcv.alg.shapes.polygon.TestBinaryPolygonDetector" time="0.155"/>
+  <testcase name="someAffineDistortion" classname="boofcv.alg.shapes.polygon.TestBinaryPolygonDetector" time="0.03"/>
+  <testcase name="rejectShapes_circle" classname="boofcv.alg.shapes.polygon.TestBinaryPolygonDetector" time="0.003"/>
+  <testcase name="usingSetLensDistortion" classname="boofcv.alg.shapes.polygon.TestBinaryPolygonDetector" time="0.035"/>
+  <testcase name="detect_concave" classname="boofcv.alg.shapes.polygon.TestBinaryPolygonDetector" time="0.022"/>
+  <testcase name="determineCornersOnBorder" classname="boofcv.alg.shapes.polygon.TestBinaryPolygonDetector" time="0.001"/>
+  <testcase name="snapToBrightObject" classname="boofcv.alg.shapes.polygon.TestBinaryPolygonDetector" time="0.001"/>
+  <testcase name="rejectShapes_concave" classname="boofcv.alg.shapes.polygon.TestBinaryPolygonDetector" time="0.01"/>
+  <testcase name="easyTestMultipleShapes" classname="boofcv.alg.shapes.polygon.TestBinaryPolygonDetector" time="0.011"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

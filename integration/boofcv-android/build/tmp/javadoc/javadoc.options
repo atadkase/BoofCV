@@ -1,0 +1,13 @@
+-classpath '/media/ashu/Work/orgboof/BoofCV/integration/boofcv-android/build/classes/main:/media/ashu/Work/orgboof/BoofCV/integration/boofcv-android/build/resources/main:/home/ashu/Android/Sdk/platforms/android-25/uiautomator.jar:/home/ashu/Android/Sdk/platforms/android-25/android.jar:/home/ashu/Android/Sdk/platforms/android-25/android-stubs-src.jar:/home/ashu/.gradle/caches/modules-2/files-2.1/org.georegression/georegression/0.13-SNAPSHOT/ec17d3864f6504339beba1ee0ad389b39d1a17dd/georegression-0.13-SNAPSHOT.jar:/media/ashu/Work/orgboof/BoofCV/main/boofcv-ip/build/libs/boofcv-ip-0.27-SNAPSHOT.jar:/media/ashu/Work/orgboof/BoofCV/main/boofcv-feature/build/libs/boofcv-feature-0.27-SNAPSHOT.jar:/media/ashu/Work/orgboof/BoofCV/main/boofcv-calibration/build/libs/boofcv-calibration-0.27-SNAPSHOT.jar:/media/ashu/Work/orgboof/BoofCV/main/boofcv-geo/build/libs/boofcv-geo-0.27-SNAPSHOT.jar:/home/ashu/.gradle/caches/modules-2/files-2.1/org.ddogleg/ddogleg/0.11-SNAPSHOT/f629bb7abe5f84df91eb031a85a1e962d2599f86/ddogleg-0.11-SNAPSHOT.jar:/home/ashu/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-core/0.31-SNAPSHOT/c4ba43b1686512bdd5eb5c8175060e4530965212/ejml-core-0.31-SNAPSHOT.jar:/home/ashu/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-fdense/0.31-SNAPSHOT/48018a0a62fdbe434f71d93d8447b739b84a7d3c/ejml-fdense-0.31-SNAPSHOT.jar:/home/ashu/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-ddense/0.31-SNAPSHOT/b08cbb3994a311c6b50e15739bfcb71086d27050/ejml-ddense-0.31-SNAPSHOT.jar:/home/ashu/.gradle/caches/modules-2/files-2.1/org.ejml/ejml-simple/0.31-SNAPSHOT/487db7c8349e0c08dff2109b45a482c23be209e6/ejml-simple-0.31-SNAPSHOT.jar'
+-d '/media/ashu/Work/orgboof/BoofCV/integration/boofcv-android/build/docs/javadoc'
+-doctitle 'boofcv-android 0.27-SNAPSHOT API'
+-quiet 
+-windowtitle 'boofcv-android 0.27-SNAPSHOT API'
+'/media/ashu/Work/orgboof/BoofCV/integration/boofcv-android/src/boofcv/android/ConvertBitmap.java'
+'/media/ashu/Work/orgboof/BoofCV/integration/boofcv-android/src/boofcv/android/gui/CameraPreview.java'
+'/media/ashu/Work/orgboof/BoofCV/integration/boofcv-android/src/boofcv/android/gui/VideoDisplayActivity.java'
+'/media/ashu/Work/orgboof/BoofCV/integration/boofcv-android/src/boofcv/android/gui/VideoImageProcessing.java'
+'/media/ashu/Work/orgboof/BoofCV/integration/boofcv-android/src/boofcv/android/gui/VideoProcessing.java'
+'/media/ashu/Work/orgboof/BoofCV/integration/boofcv-android/src/boofcv/android/gui/VideoRenderProcessing.java'
+'/media/ashu/Work/orgboof/BoofCV/integration/boofcv-android/src/boofcv/android/ImplConvertBitmap.java'
+'/media/ashu/Work/orgboof/BoofCV/integration/boofcv-android/src/boofcv/android/VisualizeImageData.java'

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.binary.TestContourTracer" tests="11" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:18" hostname="ashu-Lenovo-G50-70" time="0.004">
+  <properties/>
+  <testcase name="funky1" classname="boofcv.alg.filter.binary.TestContourTracer" time="0.0"/>
+  <testcase name="funky2" classname="boofcv.alg.filter.binary.TestContourTracer" time="0.0"/>
+  <testcase name="funky3" classname="boofcv.alg.filter.binary.TestContourTracer" time="0.0"/>
+  <testcase name="single" classname="boofcv.alg.filter.binary.TestContourTracer" time="0.0"/>
+  <testcase name="square" classname="boofcv.alg.filter.binary.TestContourTracer" time="0.001"/>
+  <testcase name="funk4" classname="boofcv.alg.filter.binary.TestContourTracer" time="0.0"/>
+  <testcase name="interior1" classname="boofcv.alg.filter.binary.TestContourTracer" time="0.0"/>
+  <testcase name="interior2" classname="boofcv.alg.filter.binary.TestContourTracer" time="0.0"/>
+  <testcase name="two_horizontal" classname="boofcv.alg.filter.binary.TestContourTracer" time="0.001"/>
+  <testcase name="two_vertical" classname="boofcv.alg.filter.binary.TestContourTracer" time="0.0"/>
+  <testcase name="checkMarkWhite" classname="boofcv.alg.filter.binary.TestContourTracer" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

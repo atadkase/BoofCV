@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.distort.mls.TestImageDeformPointMLS_F32" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:18" hostname="ashu-Lenovo-G50-70" time="0.059">
+  <properties/>
+  <testcase name="test_shape_independent" classname="boofcv.alg.distort.mls.TestImageDeformPointMLS_F32" time="0.053"/>
+  <testcase name="computeWeights" classname="boofcv.alg.distort.mls.TestImageDeformPointMLS_F32" time="0.002"/>
+  <testcase name="testAllAtOnce_OnControlPoints" classname="boofcv.alg.distort.mls.TestImageDeformPointMLS_F32" time="0.001"/>
+  <testcase name="testAllAtOnce_CloserToCloser" classname="boofcv.alg.distort.mls.TestImageDeformPointMLS_F32" time="0.001"/>
+  <testcase name="multipleCallsToFixate" classname="boofcv.alg.distort.mls.TestImageDeformPointMLS_F32" time="0.0"/>
+  <testcase name="computeAverageP" classname="boofcv.alg.distort.mls.TestImageDeformPointMLS_F32" time="0.001"/>
+  <testcase name="computeAverageQ" classname="boofcv.alg.distort.mls.TestImageDeformPointMLS_F32" time="0.0"/>
+  <testcase name="interpolateDeformedPoint" classname="boofcv.alg.distort.mls.TestImageDeformPointMLS_F32" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

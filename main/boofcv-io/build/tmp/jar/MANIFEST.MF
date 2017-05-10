@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.boofcv.io
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1494442271000
+Bundle-Vendor: BoofCV
+Bundle-DocURL: http://boofcv.org
+Import-Package: boofcv.core.image;version="[0.27,1)",boofcv.misc;versi
+ on="[0.27,1)",boofcv.struct;version="[0.27,1)",boofcv.struct.calib;ve
+ rsion="[0.27,1)",boofcv.struct.image;version="[0.27,1)",georegression
+ .struct.point;version="[0.13,1)",georegression.struct.se;version="[0.
+ 13,1)",javax.imageio,javax.swing,org.ddogleg.struct;version="[0.11,1)
+ ",org.ejml.data;version="[0.31,1)",org.yaml.snakeyaml;version="[1.17,
+ 2)",sun.awt.image
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-2.4.0.201411031534
+Export-Package: boofcv.io;version="0.27.0.SNAPSHOT";uses:="boofcv.io.i
+ mage,boofcv.struct.image,javax.swing",boofcv.io.calibration;version="
+ 0.27.0.SNAPSHOT";uses:="boofcv.struct.calib,georegression.struct.se",
+ boofcv.io.image;version="0.27.0.SNAPSHOT";uses:="boofcv.struct.image,
+ javax.swing,org.ddogleg.struct,sun.awt.image",boofcv.io.video;version
+ ="0.27.0.SNAPSHOT";uses:="boofcv.io.image,boofcv.struct.image,org.ddo
+ gleg.struct",boofcv.io.wrapper;version="0.27.0.SNAPSHOT";uses:="boofc
+ v.io,boofcv.io.image,boofcv.struct.image",boofcv.io.wrapper.images;ve
+ rsion="0.27.0.SNAPSHOT";uses:="boofcv.io.image,boofcv.struct.image"
+Bundle-Version: 0.27.0.SNAPSHOT
+Bundle-Name: boofcv-io
+Created-By: 1.8.0_131 (Oracle Corporation)
+

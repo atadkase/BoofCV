@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.shapes.polyline.TestSplitMergeLineFitLoop" tests="12" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:34" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="splitPixels_multiple" classname="boofcv.alg.shapes.polyline.TestSplitMergeLineFitLoop" time="0.001"/>
+  <testcase name="mergeLines" classname="boofcv.alg.shapes.polyline.TestSplitMergeLineFitLoop" time="0.0"/>
+  <testcase name="selectSplitOffset" classname="boofcv.alg.shapes.polyline.TestSplitMergeLineFitLoop" time="0.0"/>
+  <testcase name="simpleSquareAll" classname="boofcv.alg.shapes.polyline.TestSplitMergeLineFitLoop" time="0.0"/>
+  <testcase name="checkZeroOne" classname="boofcv.alg.shapes.polyline.TestSplitMergeLineFitLoop" time="0.0"/>
+  <testcase name="circularDistance" classname="boofcv.alg.shapes.polyline.TestSplitMergeLineFitLoop" time="0.0"/>
+  <testcase name="selectSplitOffset_minimumSideLengthPixel" classname="boofcv.alg.shapes.polyline.TestSplitMergeLineFitLoop" time="0.0"/>
+  <testcase name="splitSegments" classname="boofcv.alg.shapes.polyline.TestSplitMergeLineFitLoop" time="0.0"/>
+  <testcase name="splitPixels_nosplit" classname="boofcv.alg.shapes.polyline.TestSplitMergeLineFitLoop" time="0.0"/>
+  <testcase name="set_minimumSideLengthPixel" classname="boofcv.alg.shapes.polyline.TestSplitMergeLineFitLoop" time="0.0"/>
+  <testcase name="selectFarthest" classname="boofcv.alg.shapes.polyline.TestSplitMergeLineFitLoop" time="0.0"/>
+  <testcase name="splitPixels" classname="boofcv.alg.shapes.polyline.TestSplitMergeLineFitLoop" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

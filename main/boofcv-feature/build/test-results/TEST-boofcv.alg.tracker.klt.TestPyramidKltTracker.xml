@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.tracker.klt.TestPyramidKltTracker" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:35" hostname="ashu-Lenovo-G50-70" time="0.011">
+  <properties/>
+  <testcase name="track_largeOffset" classname="boofcv.alg.tracker.klt.TestPyramidKltTracker" time="0.001"/>
+  <testcase name="track_smallOffset" classname="boofcv.alg.tracker.klt.TestPyramidKltTracker" time="0.001"/>
+  <testcase name="setDescription_border" classname="boofcv.alg.tracker.klt.TestPyramidKltTracker" time="0.001"/>
+  <testcase name="setDescription" classname="boofcv.alg.tracker.klt.TestPyramidKltTracker" time="0.001"/>
+  <testcase name="track_OOB" classname="boofcv.alg.tracker.klt.TestPyramidKltTracker" time="0.002"/>
+  <testcase name="track_border" classname="boofcv.alg.tracker.klt.TestPyramidKltTracker" time="0.001"/>
+  <testcase name="track_LargeError" classname="boofcv.alg.tracker.klt.TestPyramidKltTracker" time="0.002"/>
+  <testcase name="setDescription_outside" classname="boofcv.alg.tracker.klt.TestPyramidKltTracker" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

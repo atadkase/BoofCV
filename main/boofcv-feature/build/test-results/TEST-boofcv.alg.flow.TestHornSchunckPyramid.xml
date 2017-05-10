@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.flow.TestHornSchunckPyramid" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:29" hostname="ashu-Lenovo-G50-70" time="0.014">
+  <properties/>
+  <testcase name="process" classname="boofcv.alg.flow.TestHornSchunckPyramid" time="0.011"/>
+  <testcase name="A" classname="boofcv.alg.flow.TestHornSchunckPyramid" time="0.0"/>
+  <testcase name="safe" classname="boofcv.alg.flow.TestHornSchunckPyramid" time="0.0"/>
+  <testcase name="processLayer" classname="boofcv.alg.flow.TestHornSchunckPyramid" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

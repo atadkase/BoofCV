@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.geo.pose.TestPnPRodriguesCodec" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:48" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="testCase0" classname="boofcv.alg.geo.pose.TestPnPRodriguesCodec" time="0.001"/>
+  <testcase name="testCase1" classname="boofcv.alg.geo.pose.TestPnPRodriguesCodec" time="0.0"/>
+  <testcase name="decode_encode" classname="boofcv.alg.geo.pose.TestPnPRodriguesCodec" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

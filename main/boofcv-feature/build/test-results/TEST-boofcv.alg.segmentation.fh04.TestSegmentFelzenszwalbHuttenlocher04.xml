@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.segmentation.fh04.TestSegmentFelzenszwalbHuttenlocher04" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:29" hostname="ashu-Lenovo-G50-70" time="0.003">
+  <properties/>
+  <testcase name="mergeSmallRegions" classname="boofcv.alg.segmentation.fh04.TestSegmentFelzenszwalbHuttenlocher04" time="0.0"/>
+  <testcase name="process" classname="boofcv.alg.segmentation.fh04.TestSegmentFelzenszwalbHuttenlocher04" time="0.003"/>
+  <testcase name="find" classname="boofcv.alg.segmentation.fh04.TestSegmentFelzenszwalbHuttenlocher04" time="0.0"/>
+  <testcase name="mergeRegions" classname="boofcv.alg.segmentation.fh04.TestSegmentFelzenszwalbHuttenlocher04" time="0.0"/>
+  <testcase name="computeOutput" classname="boofcv.alg.segmentation.fh04.TestSegmentFelzenszwalbHuttenlocher04" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

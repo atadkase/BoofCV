@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoGrid" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:49" hostname="ashu-Lenovo-G50-70" time="0.002">
+  <properties/>
+  <testcase name="addEdgesToInfo_AND_findLargestAnglesForAllNodes" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoGrid" time="0.0"/>
+  <testcase name="findClosestEdge_" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoGrid" time="0.0"/>
+  <testcase name="findLine" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoGrid" time="0.001"/>
+  <testcase name="checkDuplicates" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoGrid" time="0.0"/>
+  <testcase name="computeNodeInfo" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoGrid" time="0.0"/>
+  <testcase name="grid_getIndexOfAsymEllipse" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoGrid" time="0.0"/>
+  <testcase name="findContour" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoGrid" time="0.001"/>
+  <testcase name="selectSeedCorner" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoGrid" time="0.0"/>
+  <testcase name="selectSeedNext" classname="boofcv.alg.fiducial.calib.circle.TestEllipseClustersIntoGrid" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

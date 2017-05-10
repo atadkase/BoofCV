@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.geo.pose.TestWrapP3PLineDistance" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:47" hostname="ashu-Lenovo-G50-70" time="0.028">
+  <properties/>
+  <testcase name="checkMinimumPoints" classname="boofcv.abst.geo.pose.TestWrapP3PLineDistance" time="0.0"/>
+  <testcase name="checkAllObservationsBehindCamera" classname="boofcv.abst.geo.pose.TestWrapP3PLineDistance" time="0.0"/>
+  <testcase name="checkMultipleCalls" classname="boofcv.abst.geo.pose.TestWrapP3PLineDistance" time="0.026"/>
+  <testcase name="perfectObservations" classname="boofcv.abst.geo.pose.TestWrapP3PLineDistance" time="0.001"/>
+  <testcase name="checkZerosInput" classname="boofcv.abst.geo.pose.TestWrapP3PLineDistance" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

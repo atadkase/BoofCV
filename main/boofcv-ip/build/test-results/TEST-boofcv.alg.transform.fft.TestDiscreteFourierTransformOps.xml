@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.transform.fft.TestDiscreteFourierTransformOps" tests="9" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:23" hostname="ashu-Lenovo-G50-70" time="0.01">
+  <properties/>
+  <testcase name="magnitude" classname="boofcv.alg.transform.fft.TestDiscreteFourierTransformOps" time="0.001"/>
+  <testcase name="multiplyComplex" classname="boofcv.alg.transform.fft.TestDiscreteFourierTransformOps" time="0.003"/>
+  <testcase name="isPowerOf2" classname="boofcv.alg.transform.fft.TestDiscreteFourierTransformOps" time="0.0"/>
+  <testcase name="realToComplex" classname="boofcv.alg.transform.fft.TestDiscreteFourierTransformOps" time="0.001"/>
+  <testcase name="phase" classname="boofcv.alg.transform.fft.TestDiscreteFourierTransformOps" time="0.002"/>
+  <testcase name="checkImageArguments" classname="boofcv.alg.transform.fft.TestDiscreteFourierTransformOps" time="0.0"/>
+  <testcase name="multiplyRealComplex" classname="boofcv.alg.transform.fft.TestDiscreteFourierTransformOps" time="0.001"/>
+  <testcase name="shiftZeroFrequency" classname="boofcv.alg.transform.fft.TestDiscreteFourierTransformOps" time="0.001"/>
+  <testcase name="nextPow2" classname="boofcv.alg.transform.fft.TestDiscreteFourierTransformOps" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.detect.interest.TestFeatureLaplacePyramid" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:23" hostname="ashu-Lenovo-G50-70" time="0.025">
+  <properties/>
+  <testcase name="checkNegativeMaxFeatures" classname="boofcv.alg.feature.detect.interest.TestFeatureLaplacePyramid" time="0.015"/>
+  <testcase name="checkMultipleCalls" classname="boofcv.alg.feature.detect.interest.TestFeatureLaplacePyramid" time="0.003"/>
+  <testcase name="compareBlankImage" classname="boofcv.alg.feature.detect.interest.TestFeatureLaplacePyramid" time="0.004"/>
+  <testcase name="checkFlushFeatures" classname="boofcv.alg.feature.detect.interest.TestFeatureLaplacePyramid" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

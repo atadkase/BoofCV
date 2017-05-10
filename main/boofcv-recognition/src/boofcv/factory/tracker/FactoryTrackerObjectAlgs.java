@@ -20,10 +20,12 @@ package boofcv.factory.tracker;
 
 import boofcv.abst.filter.derivative.ImageGradient;
 import boofcv.abst.tracker.ConfigCirculantTracker;
+import boofcv.abst.tracker.ConfigCirculantTrackerFloat;
 import boofcv.abst.tracker.ConfigComaniciu2003;
 import boofcv.alg.interpolate.InterpolatePixelMB;
 import boofcv.alg.interpolate.InterpolatePixelS;
 import boofcv.alg.tracker.circulant.CirculantTracker;
+import boofcv.alg.tracker.circulant.CirculantTrackerFloat;
 import boofcv.alg.tracker.meanshift.*;
 import boofcv.alg.tracker.sfot.SfotConfig;
 import boofcv.alg.tracker.sfot.SparseFlowObjectTracker;
@@ -140,4 +142,20 @@ public class FactoryTrackerObjectAlgs {
 				config.updateHistogram, config.meanShiftMaxIterations, config.meanShiftMinimumChange,
 				config.scaleWeight, config.minimumSizeRatio, config.scaleChange, hist);
 	}
+
+
+	public static <T extends ImageGray<T>>
+	CirculantTrackerFloat<T> circulantFloat(ConfigCirculantTrackerFloat config , Class<T> imageType) {
+		if( config == null )
+			config = new ConfigCirculantTrackerFloat();
+
+		InterpolatePixelS<T> interp = FactoryInterpolation.bilinearPixelS(imageType, BorderType.EXTENDED);
+
+		return new CirculantTrackerFloat(
+				config.output_sigma_factor,config.sigma,config.lambda,config.interp_factor,
+				config.padding,
+				config.workSpace,
+				config.maxPixelValue,interp);
+	}
+
 }

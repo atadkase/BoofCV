@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.detect.extract.TestNonMaxBlockRelaxed" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:22" hostname="ashu-Lenovo-G50-70" time="0.126">
+  <properties/>
+  <testcase name="checkMinMax" classname="boofcv.alg.feature.detect.extract.TestNonMaxBlockRelaxed" time="0.061"/>
+  <testcase name="checkMax" classname="boofcv.alg.feature.detect.extract.TestNonMaxBlockRelaxed" time="0.033"/>
+  <testcase name="checkMin" classname="boofcv.alg.feature.detect.extract.TestNonMaxBlockRelaxed" time="0.031"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

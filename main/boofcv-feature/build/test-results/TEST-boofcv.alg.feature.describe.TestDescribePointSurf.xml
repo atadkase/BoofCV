@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.describe.TestDescribePointSurf" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:21" hostname="ashu-Lenovo-G50-70" time="0.004">
+  <properties/>
+  <testcase name="changeScale" classname="boofcv.alg.feature.describe.TestDescribePointSurf" time="0.0"/>
+  <testcase name="changeRotation" classname="boofcv.alg.feature.describe.TestDescribePointSurf" time="0.001"/>
+  <testcase name="features_increasing" classname="boofcv.alg.feature.describe.TestDescribePointSurf" time="0.0"/>
+  <testcase name="checkBorder" classname="boofcv.alg.feature.describe.TestDescribePointSurf" time="0.002"/>
+  <testcase name="checkSubImage" classname="boofcv.alg.feature.describe.TestDescribePointSurf" time="0.001"/>
+  <testcase name="features_fraction" classname="boofcv.alg.feature.describe.TestDescribePointSurf" time="0.0"/>
+  <testcase name="features_constant" classname="boofcv.alg.feature.describe.TestDescribePointSurf" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

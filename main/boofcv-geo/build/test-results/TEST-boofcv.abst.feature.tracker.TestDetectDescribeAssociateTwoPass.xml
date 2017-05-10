@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" tests="17" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:46" hostname="ashu-Lenovo-G50-70" time="0.149">
+  <properties/>
+  <testcase name="performSecondPass_multiple" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.026"/>
+  <testcase name="process" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.011"/>
+  <testcase name="hintBeforeProcess" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.01"/>
+  <testcase name="spawnTracks" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.013"/>
+  <testcase name="getActiveTracks" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.005"/>
+  <testcase name="getNewTracks" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.005"/>
+  <testcase name="getDroppedTracks" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.006"/>
+  <testcase name="getAllTracks" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.005"/>
+  <testcase name="checkCookieNull" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.005"/>
+  <testcase name="reset" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.009"/>
+  <testcase name="testRequestDrop" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.005"/>
+  <testcase name="testTrackUpdate" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.015"/>
+  <testcase name="checkCookieSaved" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.007"/>
+  <testcase name="getInactiveTracks" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.006"/>
+  <testcase name="dropAllTracks" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.003"/>
+  <testcase name="spawnTracks_NoDuplicates" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.008"/>
+  <testcase name="testUpdateTrackDrop" classname="boofcv.abst.feature.tracker.TestDetectDescribeAssociateTwoPass" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

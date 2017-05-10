@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.boofcv.learning
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1494442362000
+Bundle-Vendor: BoofCV
+Bundle-DocURL: http://boofcv.org
+Import-Package: boofcv.struct.feature;version="[0.27,1)",org.ddogleg.c
+ lustering;version="[0.11,1)",org.ejml.data;version="[0.31,1)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-2.4.0.201411031534
+Export-Package: boofcv.alg.bow;version="0.27.0.SNAPSHOT";uses:="boofcv
+ .struct.feature,boofcv.struct.learning,org.ddogleg.clustering",boofcv
+ .struct.learning;version="0.27.0.SNAPSHOT";uses:="org.ejml.data"
+Bundle-Version: 0.27.0.SNAPSHOT
+Bundle-Name: boofcv-learning
+Created-By: 1.8.0_131 (Oracle Corporation)
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.fiducial.calib.circle.TestKeyPointsCircleAsymmetricGrid" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:49" hostname="ashu-Lenovo-G50-70" time="0.005">
+  <properties/>
+  <testcase name="vertical" classname="boofcv.alg.fiducial.calib.circle.TestKeyPointsCircleAsymmetricGrid" time="0.001"/>
+  <testcase name="diagonalLR" classname="boofcv.alg.fiducial.calib.circle.TestKeyPointsCircleAsymmetricGrid" time="0.001"/>
+  <testcase name="diagonalRL" classname="boofcv.alg.fiducial.calib.circle.TestKeyPointsCircleAsymmetricGrid" time="0.001"/>
+  <testcase name="all" classname="boofcv.alg.fiducial.calib.circle.TestKeyPointsCircleAsymmetricGrid" time="0.001"/>
+  <testcase name="computeEllipseCenters" classname="boofcv.alg.fiducial.calib.circle.TestKeyPointsCircleAsymmetricGrid" time="0.001"/>
+  <testcase name="horizontal" classname="boofcv.alg.fiducial.calib.circle.TestKeyPointsCircleAsymmetricGrid" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

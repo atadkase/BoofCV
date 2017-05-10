@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.misc.TestImplAverageDownSample" tests="6" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:22" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="vertical_1_to_1" classname="boofcv.alg.filter.misc.TestImplAverageDownSample" time="0.0"/>
+  <testcase name="vertical_2_to_1" classname="boofcv.alg.filter.misc.TestImplAverageDownSample" time="0.0"/>
+  <testcase name="vertical_3_to_2" classname="boofcv.alg.filter.misc.TestImplAverageDownSample" time="0.001"/>
+  <testcase name="horizontal_1_to_1" classname="boofcv.alg.filter.misc.TestImplAverageDownSample" time="0.0"/>
+  <testcase name="horizontal_2_to_1" classname="boofcv.alg.filter.misc.TestImplAverageDownSample" time="0.0"/>
+  <testcase name="horizontal_3_to_2" classname="boofcv.alg.filter.misc.TestImplAverageDownSample" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

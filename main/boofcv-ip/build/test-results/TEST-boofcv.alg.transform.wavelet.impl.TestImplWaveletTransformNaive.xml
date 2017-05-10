@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.transform.wavelet.impl.TestImplWaveletTransformNaive" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:27" hostname="ashu-Lenovo-G50-70" time="0.011">
+  <properties/>
+  <testcase name="encodeDecode_F32" classname="boofcv.alg.transform.wavelet.impl.TestImplWaveletTransformNaive" time="0.004"/>
+  <testcase name="encodeDecode_I32" classname="boofcv.alg.transform.wavelet.impl.TestImplWaveletTransformNaive" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

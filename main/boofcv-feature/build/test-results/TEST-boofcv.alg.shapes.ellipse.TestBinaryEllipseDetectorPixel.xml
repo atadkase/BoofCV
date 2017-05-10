@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.shapes.ellipse.TestBinaryEllipseDetectorPixel" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:33" hostname="ashu-Lenovo-G50-70" time="0.04">
+  <properties/>
+  <testcase name="basicOnImage" classname="boofcv.alg.shapes.ellipse.TestBinaryEllipseDetectorPixel" time="0.003"/>
+  <testcase name="isApproximatelyElliptical_large" classname="boofcv.alg.shapes.ellipse.TestBinaryEllipseDetectorPixel" time="0.036"/>
+  <testcase name="isApproximatelyElliptical_small" classname="boofcv.alg.shapes.ellipse.TestBinaryEllipseDetectorPixel" time="0.0"/>
+  <testcase name="undistortContour" classname="boofcv.alg.shapes.ellipse.TestBinaryEllipseDetectorPixel" time="0.0"/>
+  <testcase name="undistortContour_WithDistortion" classname="boofcv.alg.shapes.ellipse.TestBinaryEllipseDetectorPixel" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.depth.TestVisualDepthOps" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:59" hostname="ashu-Lenovo-G50-70" time="0.045">
+  <properties/>
+  <testcase name="depthTo3D_with_rgb" classname="boofcv.alg.depth.TestVisualDepthOps" time="0.038"/>
+  <testcase name="depthTo3D" classname="boofcv.alg.depth.TestVisualDepthOps" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

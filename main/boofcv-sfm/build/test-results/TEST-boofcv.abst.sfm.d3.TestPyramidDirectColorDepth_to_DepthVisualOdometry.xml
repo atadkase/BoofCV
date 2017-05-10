@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.sfm.d3.TestPyramidDirectColorDepth_to_DepthVisualOdometry" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:56" hostname="ashu-Lenovo-G50-70" time="0.708">
+  <properties/>
+  <testcase name="moveForward" classname="boofcv.abst.sfm.d3.TestPyramidDirectColorDepth_to_DepthVisualOdometry" time="0.708"/>
+  <system-out><![CDATA[   d  87.80  f   1.00
+   d  85.85  f   1.00
+   d  84.02  f   1.00
+   d  82.19  f   1.00
+   d  80.47  f   1.00
+   d  78.86  f   1.00
+   d  77.24  f   1.00
+   d  75.69  f   1.00
+   d  74.25  f   1.00
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

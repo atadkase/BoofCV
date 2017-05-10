@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.transform.wavelet.TestFactoryWaveletCoiflet" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:27" hostname="ashu-Lenovo-G50-70" time="0.016">
+  <properties/>
+  <testcase name="transform_generate_F32" classname="boofcv.alg.transform.wavelet.TestFactoryWaveletCoiflet" time="0.003"/>
+  <testcase name="generate_F32" classname="boofcv.alg.transform.wavelet.TestFactoryWaveletCoiflet" time="0.013"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

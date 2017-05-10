@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.struct.TestPointGradient_F64" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:35" hostname="ashu-Lenovo-G50-70" time="0.026">
+  <properties/>
+  <testcase name="set_object" classname="boofcv.struct.TestPointGradient_F64" time="0.026"/>
+  <testcase name="set_values" classname="boofcv.struct.TestPointGradient_F64" time="0.0"/>
+  <testcase name="copy" classname="boofcv.struct.TestPointGradient_F64" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

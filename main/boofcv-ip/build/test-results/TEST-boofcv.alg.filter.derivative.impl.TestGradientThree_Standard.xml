@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.derivative.impl.TestGradientThree_Standard" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:22" hostname="ashu-Lenovo-G50-70" time="0.002">
+  <properties/>
+  <testcase name="compareToConvolve_F32" classname="boofcv.alg.filter.derivative.impl.TestGradientThree_Standard" time="0.001"/>
+  <testcase name="compareToConvolve_I8_S16" classname="boofcv.alg.filter.derivative.impl.TestGradientThree_Standard" time="0.0"/>
+  <testcase name="compareToConvolve_I8_S32" classname="boofcv.alg.filter.derivative.impl.TestGradientThree_Standard" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.geo.pose.TestPnPLepetitEPnP" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:48" hostname="ashu-Lenovo-G50-70" time="0.123">
+  <properties/>
+  <testcase name="standardTests" classname="boofcv.alg.geo.pose.TestPnPLepetitEPnP" time="0.058"/>
+  <testcase name="extractNullPoints" classname="boofcv.alg.geo.pose.TestPnPLepetitEPnP" time="0.006"/>
+  <testcase name="selectWorldControlPoints_planar" classname="boofcv.alg.geo.pose.TestPnPLepetitEPnP" time="0.0"/>
+  <testcase name="standardTests_iteration" classname="boofcv.alg.geo.pose.TestPnPLepetitEPnP" time="0.058"/>
+  <testcase name="constructM" classname="boofcv.alg.geo.pose.TestPnPLepetitEPnP" time="0.0"/>
+  <testcase name="computeBarycentricCoordinates" classname="boofcv.alg.geo.pose.TestPnPLepetitEPnP" time="0.0"/>
+  <testcase name="estimateCase1" classname="boofcv.alg.geo.pose.TestPnPLepetitEPnP" time="0.0"/>
+  <testcase name="selectControlPoints" classname="boofcv.alg.geo.pose.TestPnPLepetitEPnP" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

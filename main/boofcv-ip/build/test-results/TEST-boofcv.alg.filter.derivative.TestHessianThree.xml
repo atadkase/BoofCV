@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.derivative.TestHessianThree" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:22" hostname="ashu-Lenovo-G50-70" time="0.007">
+  <properties/>
+  <testcase name="compareToConvolve_F32" classname="boofcv.alg.filter.derivative.TestHessianThree" time="0.003"/>
+  <testcase name="compareToConvolve_I8" classname="boofcv.alg.filter.derivative.TestHessianThree" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

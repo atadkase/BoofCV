@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.sfm.robust.TestGenerateSe2_PlanePtPixel" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:55:00" hostname="ashu-Lenovo-G50-70" time="0.0">
+  <properties/>
+  <testcase name="perfect" classname="boofcv.alg.sfm.robust.TestGenerateSe2_PlanePtPixel" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

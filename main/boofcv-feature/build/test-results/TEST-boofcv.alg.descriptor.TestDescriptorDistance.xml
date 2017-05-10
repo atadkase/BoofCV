@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.descriptor.TestDescriptorDistance" tests="12" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:21" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="sad_S8" classname="boofcv.alg.descriptor.TestDescriptorDistance" time="0.0"/>
+  <testcase name="sad_U8" classname="boofcv.alg.descriptor.TestDescriptorDistance" time="0.0"/>
+  <testcase name="euclideanSq_F32" classname="boofcv.alg.descriptor.TestDescriptorDistance" time="0.0"/>
+  <testcase name="euclideanSq_F64" classname="boofcv.alg.descriptor.TestDescriptorDistance" time="0.0"/>
+  <testcase name="hamming_I32" classname="boofcv.alg.descriptor.TestDescriptorDistance" time="0.0"/>
+  <testcase name="hamming_int" classname="boofcv.alg.descriptor.TestDescriptorDistance" time="0.0"/>
+  <testcase name="ncc_self_distance" classname="boofcv.alg.descriptor.TestDescriptorDistance" time="0.0"/>
+  <testcase name="ncc" classname="boofcv.alg.descriptor.TestDescriptorDistance" time="0.0"/>
+  <testcase name="euclidean_F64" classname="boofcv.alg.descriptor.TestDescriptorDistance" time="0.0"/>
+  <testcase name="correlation" classname="boofcv.alg.descriptor.TestDescriptorDistance" time="0.0"/>
+  <testcase name="sad_F32" classname="boofcv.alg.descriptor.TestDescriptorDistance" time="0.0"/>
+  <testcase name="sad_F64" classname="boofcv.alg.descriptor.TestDescriptorDistance" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

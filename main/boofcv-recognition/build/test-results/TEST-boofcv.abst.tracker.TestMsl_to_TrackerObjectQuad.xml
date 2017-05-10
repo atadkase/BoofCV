@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.tracker.TestMsl_to_TrackerObjectQuad" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:40" hostname="ashu-Lenovo-G50-70" time="0.218">
+  <properties/>
+  <testcase name="changeInputImageSize" classname="boofcv.abst.tracker.TestMsl_to_TrackerObjectQuad" time="0.069"/>
+  <testcase name="translation_large" classname="boofcv.abst.tracker.TestMsl_to_TrackerObjectQuad" time="0.0"/>
+  <testcase name="translation_small" classname="boofcv.abst.tracker.TestMsl_to_TrackerObjectQuad" time="0.093"/>
+  <testcase name="zooming_out" classname="boofcv.abst.tracker.TestMsl_to_TrackerObjectQuad" time="0.0"/>
+  <testcase name="stationary" classname="boofcv.abst.tracker.TestMsl_to_TrackerObjectQuad" time="0.009"/>
+  <testcase name="zooming_in" classname="boofcv.abst.tracker.TestMsl_to_TrackerObjectQuad" time="0.0"/>
+  <testcase name="reinitialize" classname="boofcv.abst.tracker.TestMsl_to_TrackerObjectQuad" time="0.045"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

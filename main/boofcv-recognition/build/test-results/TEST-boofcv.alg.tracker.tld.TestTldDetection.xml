@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.tracker.tld.TestTldDetection" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:49" hostname="ashu-Lenovo-G50-70" time="0.0">
+  <properties/>
+  <testcase name="selectBestRegionsFern_smaller" classname="boofcv.alg.tracker.tld.TestTldDetection" time="0.0"/>
+  <testcase name="computeTemplateConfidence" classname="boofcv.alg.tracker.tld.TestTldDetection" time="0.0"/>
+  <testcase name="selectBestRegionsFern_largerN" classname="boofcv.alg.tracker.tld.TestTldDetection" time="0.0"/>
+  <testcase name="selectBestRegionsFern_larger" classname="boofcv.alg.tracker.tld.TestTldDetection" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

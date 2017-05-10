@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.struct.learning.TestPrecisionRecall" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:30" hostname="ashu-Lenovo-G50-70" time="0.002">
+  <properties/>
+  <testcase name="getTruePositive" classname="boofcv.struct.learning.TestPrecisionRecall" time="0.001"/>
+  <testcase name="getTrueNegative" classname="boofcv.struct.learning.TestPrecisionRecall" time="0.0"/>
+  <testcase name="getPrecision" classname="boofcv.struct.learning.TestPrecisionRecall" time="0.001"/>
+  <testcase name="getFalsePositive" classname="boofcv.struct.learning.TestPrecisionRecall" time="0.0"/>
+  <testcase name="getFalseNegative" classname="boofcv.struct.learning.TestPrecisionRecall" time="0.0"/>
+  <testcase name="getRecall" classname="boofcv.struct.learning.TestPrecisionRecall" time="0.0"/>
+  <testcase name="getFMeasure" classname="boofcv.struct.learning.TestPrecisionRecall" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

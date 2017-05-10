@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.feature.detect.intensity.impl.TestImplShiTomasiCornerWeighted_S16" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:23" hostname="ashu-Lenovo-G50-70" time="0.011">
+  <properties/>
+  <testcase name="checkOverflow" classname="boofcv.alg.feature.detect.intensity.impl.TestImplShiTomasiCornerWeighted_S16" time="0.001"/>
+  <testcase name="compareToNaive" classname="boofcv.alg.feature.detect.intensity.impl.TestImplShiTomasiCornerWeighted_S16" time="0.006"/>
+  <testcase name="genericTests" classname="boofcv.alg.feature.detect.intensity.impl.TestImplShiTomasiCornerWeighted_S16" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

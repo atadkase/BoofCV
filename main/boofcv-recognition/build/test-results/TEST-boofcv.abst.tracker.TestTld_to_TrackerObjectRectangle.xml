@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.tracker.TestTld_to_TrackerObjectRectangle" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:43" hostname="ashu-Lenovo-G50-70" time="4.185">
+  <properties/>
+  <testcase name="changeInputImageSize" classname="boofcv.abst.tracker.TestTld_to_TrackerObjectRectangle" time="0.265"/>
+  <testcase name="translation_large" classname="boofcv.abst.tracker.TestTld_to_TrackerObjectRectangle" time="0.165"/>
+  <testcase name="translation_small" classname="boofcv.abst.tracker.TestTld_to_TrackerObjectRectangle" time="0.703"/>
+  <testcase name="zooming_out" classname="boofcv.abst.tracker.TestTld_to_TrackerObjectRectangle" time="1.194"/>
+  <testcase name="stationary" classname="boofcv.abst.tracker.TestTld_to_TrackerObjectRectangle" time="0.118"/>
+  <testcase name="zooming_in" classname="boofcv.abst.tracker.TestTld_to_TrackerObjectRectangle" time="1.333"/>
+  <testcase name="reinitialize" classname="boofcv.abst.tracker.TestTld_to_TrackerObjectRectangle" time="0.406"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

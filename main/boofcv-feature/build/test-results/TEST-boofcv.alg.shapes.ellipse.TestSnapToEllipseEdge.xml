@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.shapes.ellipse.TestSnapToEllipseEdge" tests="5" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:33" hostname="ashu-Lenovo-G50-70" time="0.015">
+  <properties/>
+  <testcase name="computePointsAndWeights" classname="boofcv.alg.shapes.ellipse.TestSnapToEllipseEdge" time="0.007"/>
+  <testcase name="change" classname="boofcv.alg.shapes.ellipse.TestSnapToEllipseEdge" time="0.0"/>
+  <testcase name="simpleIncorrectEstimate" classname="boofcv.alg.shapes.ellipse.TestSnapToEllipseEdge" time="0.002"/>
+  <testcase name="simpleNoChange" classname="boofcv.alg.shapes.ellipse.TestSnapToEllipseEdge" time="0.003"/>
+  <testcase name="simpleNoChange_border" classname="boofcv.alg.shapes.ellipse.TestSnapToEllipseEdge" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

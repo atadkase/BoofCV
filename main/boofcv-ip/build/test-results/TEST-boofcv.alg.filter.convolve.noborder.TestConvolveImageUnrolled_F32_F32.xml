@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.convolve.noborder.TestConvolveImageUnrolled_F32_F32" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:19" hostname="ashu-Lenovo-G50-70" time="0.029">
+  <properties/>
+  <testcase name="vertical" classname="boofcv.alg.filter.convolve.noborder.TestConvolveImageUnrolled_F32_F32" time="0.01"/>
+  <testcase name="convolve" classname="boofcv.alg.filter.convolve.noborder.TestConvolveImageUnrolled_F32_F32" time="0.012"/>
+  <testcase name="horizontal" classname="boofcv.alg.filter.convolve.noborder.TestConvolveImageUnrolled_F32_F32" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

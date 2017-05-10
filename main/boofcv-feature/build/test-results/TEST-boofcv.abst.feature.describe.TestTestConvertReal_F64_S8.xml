@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.abst.feature.describe.TestTestConvertReal_F64_S8" tests="3" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:14" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="getOutputType" classname="boofcv.abst.feature.describe.TestTestConvertReal_F64_S8" time="0.001"/>
+  <testcase name="convert" classname="boofcv.abst.feature.describe.TestTestConvertReal_F64_S8" time="0.0"/>
+  <testcase name="createOutput" classname="boofcv.abst.feature.describe.TestTestConvertReal_F64_S8" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

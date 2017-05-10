@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.background.stationary.TestBackgroundStationaryBasic_PL" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:20" hostname="ashu-Lenovo-G50-70" time="0.16">
+  <properties/>
+  <testcase name="checkLearnRate" classname="boofcv.alg.background.stationary.TestBackgroundStationaryBasic_PL" time="0.055"/>
+  <testcase name="checkThreshold" classname="boofcv.alg.background.stationary.TestBackgroundStationaryBasic_PL" time="0.004"/>
+  <testcase name="basicCheck" classname="boofcv.alg.background.stationary.TestBackgroundStationaryBasic_PL" time="0.016"/>
+  <testcase name="segmentBeforeUpdateBackGround" classname="boofcv.alg.background.stationary.TestBackgroundStationaryBasic_PL" time="0.0"/>
+  <testcase name="checkBandsUsed" classname="boofcv.alg.background.stationary.TestBackgroundStationaryBasic_PL" time="0.075"/>
+  <testcase name="reset" classname="boofcv.alg.background.stationary.TestBackgroundStationaryBasic_PL" time="0.001"/>
+  <testcase name="checkSubImage" classname="boofcv.alg.background.stationary.TestBackgroundStationaryBasic_PL" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

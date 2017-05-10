@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.color.TestColorLab" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:17" hostname="ashu-Lenovo-G50-70" time="0.004">
+  <properties/>
+  <testcase name="rgbToLab_U8" classname="boofcv.alg.color.TestColorLab" time="0.003"/>
+  <testcase name="rgbToLab_F32" classname="boofcv.alg.color.TestColorLab" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

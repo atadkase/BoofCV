@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.transform.ii.TestIntegralImageOps" tests="7" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:24" hostname="ashu-Lenovo-G50-70" time="0.0">
+  <properties/>
+  <testcase name="convolveSparse" classname="boofcv.alg.transform.ii.TestIntegralImageOps" time="0.0"/>
+  <testcase name="isInBounds" classname="boofcv.alg.transform.ii.TestIntegralImageOps" time="0.0"/>
+  <testcase name="convolve" classname="boofcv.alg.transform.ii.TestIntegralImageOps" time="0.0"/>
+  <testcase name="block_unsafe" classname="boofcv.alg.transform.ii.TestIntegralImageOps" time="0.0"/>
+  <testcase name="transform" classname="boofcv.alg.transform.ii.TestIntegralImageOps" time="0.0"/>
+  <testcase name="block_zero" classname="boofcv.alg.transform.ii.TestIntegralImageOps" time="0.0"/>
+  <testcase name="convolveBorder" classname="boofcv.alg.transform.ii.TestIntegralImageOps" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

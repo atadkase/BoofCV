@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.binary.impl.TestBinaryNaiveOps" tests="14" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:18" hostname="ashu-Lenovo-G50-70" time="0.004">
+  <properties/>
+  <testcase name="removePointNoise" classname="boofcv.alg.filter.binary.impl.TestBinaryNaiveOps" time="0.001"/>
+  <testcase name="erode4" classname="boofcv.alg.filter.binary.impl.TestBinaryNaiveOps" time="0.0"/>
+  <testcase name="erode8" classname="boofcv.alg.filter.binary.impl.TestBinaryNaiveOps" time="0.0"/>
+  <testcase name="dilate8_border" classname="boofcv.alg.filter.binary.impl.TestBinaryNaiveOps" time="0.0"/>
+  <testcase name="edge8_border" classname="boofcv.alg.filter.binary.impl.TestBinaryNaiveOps" time="0.0"/>
+  <testcase name="edge4" classname="boofcv.alg.filter.binary.impl.TestBinaryNaiveOps" time="0.001"/>
+  <testcase name="edge8" classname="boofcv.alg.filter.binary.impl.TestBinaryNaiveOps" time="0.0"/>
+  <testcase name="erode8_border" classname="boofcv.alg.filter.binary.impl.TestBinaryNaiveOps" time="0.0"/>
+  <testcase name="removePointNoise_border" classname="boofcv.alg.filter.binary.impl.TestBinaryNaiveOps" time="0.001"/>
+  <testcase name="dilate4_border" classname="boofcv.alg.filter.binary.impl.TestBinaryNaiveOps" time="0.0"/>
+  <testcase name="dilate4" classname="boofcv.alg.filter.binary.impl.TestBinaryNaiveOps" time="0.0"/>
+  <testcase name="dilate8" classname="boofcv.alg.filter.binary.impl.TestBinaryNaiveOps" time="0.0"/>
+  <testcase name="edge4_border" classname="boofcv.alg.filter.binary.impl.TestBinaryNaiveOps" time="0.0"/>
+  <testcase name="erode4_border" classname="boofcv.alg.filter.binary.impl.TestBinaryNaiveOps" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

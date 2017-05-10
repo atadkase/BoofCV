@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.interpolate.TestImageLineIntegral" tests="8" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:23" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="nearBorder_SlopeZero" classname="boofcv.alg.interpolate.TestImageLineIntegral" time="0.0"/>
+  <testcase name="inside_nonZero" classname="boofcv.alg.interpolate.TestImageLineIntegral" time="0.001"/>
+  <testcase name="across_SlopeZero" classname="boofcv.alg.interpolate.TestImageLineIntegral" time="0.0"/>
+  <testcase name="isInside" classname="boofcv.alg.interpolate.TestImageLineIntegral" time="0.0"/>
+  <testcase name="across_nonZero" classname="boofcv.alg.interpolate.TestImageLineIntegral" time="0.0"/>
+  <testcase name="inside_SlopeZero" classname="boofcv.alg.interpolate.TestImageLineIntegral" time="0.0"/>
+  <testcase name="nearBorder_nonZero" classname="boofcv.alg.interpolate.TestImageLineIntegral" time="0.0"/>
+  <testcase name="zeroLengthLine" classname="boofcv.alg.interpolate.TestImageLineIntegral" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

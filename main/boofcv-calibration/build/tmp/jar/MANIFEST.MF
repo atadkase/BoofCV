@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: org.boofcv.calibration
+Bundle-ManifestVersion: 2
+Bnd-LastModified: 1494442270000
+Bundle-Vendor: BoofCV
+Bundle-DocURL: http://boofcv.org
+Import-Package: boofcv.alg.geo;version="[0.27,1)",boofcv.alg.geo.h;ver
+ sion="[0.27,1)",boofcv.struct.calib;version="[0.27,1)",boofcv.struct.
+ geo;version="[0.27,1)",boofcv.struct.image;version="[0.27,1)",georegr
+ ession.fitting.se;version="[0.13,1)",georegression.geometry;version="
+ [0.13,1)",georegression.struct;version="[0.13,1)",georegression.struc
+ t.point;version="[0.13,1)",georegression.struct.se;version="[0.13,1)"
+ ,georegression.struct.so;version="[0.13,1)",georegression.transform.s
+ e;version="[0.13,1)",org.ddogleg.optimization;version="[0.11,1)",org.
+ ddogleg.optimization.functions;version="[0.11,1)",org.ejml.data;versi
+ on="[0.31,1)",org.ejml.dense.row;version="[0.31,1)",org.ejml.dense.ro
+ w.factory;version="[0.31,1)",org.ejml.interfaces.decomposition;versio
+ n="[0.31,1)",org.ejml.interfaces.linsol;version="[0.31,1)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-2.4.0.201411031534
+Export-Package: boofcv.abst.geo.calibration;version="0.27.0.SNAPSHOT";
+ uses:="boofcv.alg.geo.calibration,boofcv.struct.calib,boofcv.struct.i
+ mage,georegression.struct.point",boofcv.alg.geo.calibration;version="
+ 0.27.0.SNAPSHOT";uses:="boofcv.struct.calib,boofcv.struct.geo,georegr
+ ession.struct.point,georegression.struct.se,georegression.struct.so,o
+ rg.ddogleg.optimization,org.ddogleg.optimization.functions,org.ejml.d
+ ata,org.ejml.interfaces.decomposition"
+Bundle-Version: 0.27.0.SNAPSHOT
+Bundle-Name: boofcv-calibration
+Created-By: 1.8.0_131 (Oracle Corporation)
+

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.core.image.border.TestImageBorder1D_F64" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:28" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="get" classname="boofcv.core.image.border.TestImageBorder1D_F64" time="0.0"/>
+  <testcase name="set" classname="boofcv.core.image.border.TestImageBorder1D_F64" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

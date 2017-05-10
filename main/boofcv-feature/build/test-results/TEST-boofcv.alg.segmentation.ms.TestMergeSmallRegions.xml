@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.segmentation.ms.TestMergeSmallRegions" tests="10" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:29" hostname="ashu-Lenovo-G50-70" time="0.001">
+  <properties/>
+  <testcase name="findAdjacentRegions_right" classname="boofcv.alg.segmentation.ms.TestMergeSmallRegions" time="0.001"/>
+  <testcase name="findAdjacentRegions_bottom" classname="boofcv.alg.segmentation.ms.TestMergeSmallRegions" time="0.0"/>
+  <testcase name="findAdjacentRegions_center" classname="boofcv.alg.segmentation.ms.TestMergeSmallRegions" time="0.0"/>
+  <testcase name="process" classname="boofcv.alg.segmentation.ms.TestMergeSmallRegions" time="0.0"/>
+  <testcase name="selectMerge" classname="boofcv.alg.segmentation.ms.TestMergeSmallRegions" time="0.0"/>
+  <testcase name="adjacentBorder4" classname="boofcv.alg.segmentation.ms.TestMergeSmallRegions" time="0.0"/>
+  <testcase name="adjacentBorder8" classname="boofcv.alg.segmentation.ms.TestMergeSmallRegions" time="0.0"/>
+  <testcase name="adjacentInner4" classname="boofcv.alg.segmentation.ms.TestMergeSmallRegions" time="0.0"/>
+  <testcase name="adjacentInner8" classname="boofcv.alg.segmentation.ms.TestMergeSmallRegions" time="0.0"/>
+  <testcase name="setupPruneList" classname="boofcv.alg.segmentation.ms.TestMergeSmallRegions" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

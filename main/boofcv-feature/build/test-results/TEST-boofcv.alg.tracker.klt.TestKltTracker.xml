@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.tracker.klt.TestKltTracker" tests="11" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:53:35" hostname="ashu-Lenovo-G50-70" time="0.006">
+  <properties/>
+  <testcase name="setDescription_borderNaN" classname="boofcv.alg.tracker.klt.TestKltTracker" time="0.0"/>
+  <testcase name="isFullyInside" classname="boofcv.alg.tracker.klt.TestKltTracker" time="0.0"/>
+  <testcase name="isFullyOutside" classname="boofcv.alg.tracker.klt.TestKltTracker" time="0.0"/>
+  <testcase name="isDescriptionComplete" classname="boofcv.alg.tracker.klt.TestKltTracker" time="0.0"/>
+  <testcase name="setDescription_compare" classname="boofcv.alg.tracker.klt.TestKltTracker" time="0.001"/>
+  <testcase name="testSubImages" classname="boofcv.alg.tracker.klt.TestKltTracker" time="0.004"/>
+  <testcase name="compare_computeGandE_border_toInsideImage" classname="boofcv.alg.tracker.klt.TestKltTracker" time="0.0"/>
+  <testcase name="testTracking_border1" classname="boofcv.alg.tracker.klt.TestKltTracker" time="0.001"/>
+  <testcase name="testTracking_border2" classname="boofcv.alg.tracker.klt.TestKltTracker" time="0.0"/>
+  <testcase name="detectBadFeature" classname="boofcv.alg.tracker.klt.TestKltTracker" time="0.0"/>
+  <testcase name="setDescription_outsideFail" classname="boofcv.alg.tracker.klt.TestKltTracker" time="0.0"/>
+  <system-out><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

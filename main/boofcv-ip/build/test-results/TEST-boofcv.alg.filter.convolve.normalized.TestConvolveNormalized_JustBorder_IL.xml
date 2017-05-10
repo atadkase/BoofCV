@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="boofcv.alg.filter.convolve.normalized.TestConvolveNormalized_JustBorder_IL" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-05-10T18:54:19" hostname="ashu-Lenovo-G50-70" time="0.364">
+  <properties/>
+  <testcase name="compareToNaive" classname="boofcv.alg.filter.convolve.normalized.TestConvolveNormalized_JustBorder_IL" time="0.364"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
