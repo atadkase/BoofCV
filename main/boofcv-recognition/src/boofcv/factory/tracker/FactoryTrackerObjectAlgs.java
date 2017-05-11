@@ -151,7 +151,7 @@ public class FactoryTrackerObjectAlgs {
 
 		InterpolatePixelS<T> interp = FactoryInterpolation.bilinearPixelS(imageType, BorderType.EXTENDED);
 
-		return new CirculantTrackerFloat(
+		return new CirculantTrackerFloat<>(
 				config.output_sigma_factor,config.sigma,config.lambda,config.interp_factor,
 				config.padding,
 				config.workSpace,
